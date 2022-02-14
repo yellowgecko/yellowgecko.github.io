@@ -8,10 +8,10 @@ toc:
 # these categories are for page/file lists
 category-list: [strategy, basic]
 
-collections:
-  pages:
-    permalink: /:collection/:title:output_ext
-    output: true  
+#collections:
+#  pages:
+#    permalink: /:collection/:title:output_ext
+#    output: true  
     
 theme: jekyll-theme-minimal
 
