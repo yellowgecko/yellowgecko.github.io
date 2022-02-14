@@ -2,8 +2,8 @@
 title: "Strategy THREE"
 autho: "me"
 layout: page
-resource: true 
-category: strategy 
+resource: true
+categories: [strategy]
 order: 2
 ---
 
