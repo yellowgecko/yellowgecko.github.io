@@ -2,7 +2,6 @@
 title: "Strategy one"
 author: "me"
 layout: default
-
 resource: true 
 categories: [strategy]
 order: 1
