@@ -1,9 +1,26 @@
 title: TTM
 description: "A DeFi link list ..."
 
+toc:
+  enabled: false
+  h_min: 1
+  h_max: 3
 
+collections:
+  pages:
+    permalink: /:topic/:name:output_ext
+    output: true  
+    
 theme: jekyll-theme-minimal
+
+# Permalinks
+permalink: /:categories/:name:output_ext
+
+exclude:
+  - _drafts
 
 plugins:
   - jekyll-toc
+
+
 
