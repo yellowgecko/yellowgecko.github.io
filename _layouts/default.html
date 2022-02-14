@@ -40,12 +40,10 @@
         </ul>
         {% endif %}
       </header>
-        <nav>
-        <ul></ul>
-        </nav>
       <section>
 
-      {{ content }}
+      {{ content }
+      {% include toc.html html=content %}
 
       </section>
       <footer>
