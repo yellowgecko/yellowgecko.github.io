@@ -3,8 +3,8 @@ description: "A DeFi link list ..."
 
 toc:
   enabled: false
-  h_min: 1
-  h_max: 3
+  h_min: 2
+  h_max: 4
 
 collections:
   pages:
