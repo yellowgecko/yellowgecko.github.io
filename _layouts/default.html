@@ -41,9 +41,10 @@
         {% endif %}
       </header>
       <section>
-
-      {{ content | toc }}
-      {% include toc.html html=content %}
+        {% include toc.html html=content %}
+        <p>just some separator text, </p>
+        {{ content | toc }}
+      
 
       </section>
       <footer>
