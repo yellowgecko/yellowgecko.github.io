@@ -3,7 +3,7 @@ description: "A DeFi link list ..."
 
 toc:
   enabled: true
-  h_min: 1
+  h_min: 2
   h_max: 6
 
 #collections:
