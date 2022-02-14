@@ -41,10 +41,7 @@
         {% endif %}
       </header>
       <section>
-        {% include toc.html html=content %}
-        <p>just some separator text.</p>
-        {{ content | toc }}
-
+        {{ content }}
       </section>
       <footer>
         {% if site.github.is_project_page %}
