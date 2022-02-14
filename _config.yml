@@ -6,15 +6,15 @@ toc:
   h_min: 2
   h_max: 6
 
-#collections:
-#  pages:
-#    permalink: /:topic/:name:output_ext
-#    output: true  
+collections:
+  strategy:
+    permalink: /:collection/:title:output_ext
+    output: true  
     
 theme: jekyll-theme-minimal
 
 # Permalinks
-permalink: /:categories/:name:output_ext
+# permalink: /:categories/:name:output_ext
 
 exclude:
   - _drafts
