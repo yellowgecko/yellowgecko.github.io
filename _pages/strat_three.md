@@ -1,6 +1,6 @@
 ---
 title: "Strategy THREE"
-autho: "me"
+author: "me"
 layout: default
 resource: true
 categories: [strategy]
