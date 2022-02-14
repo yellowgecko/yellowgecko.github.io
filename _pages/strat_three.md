@@ -1,7 +1,7 @@
 ---
 title: "Strategy THREE"
 autho: "me"
-layout: page
+layout: default
 resource: true
 categories: [strategy]
 order: 2
