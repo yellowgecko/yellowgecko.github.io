@@ -1,6 +1,6 @@
 ---
 title: "First Page"
-layout: page
+layout: default
 
 ---
 # First page

@@ -1,6 +1,7 @@
 ---
 title: "First Page"
 layout: default
+toc: true
 
 ---
 # First page
