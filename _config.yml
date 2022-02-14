@@ -3,13 +3,13 @@ description: "A DeFi link list ..."
 
 toc:
   enabled: true
-  h_min: 2
-  h_max: 4
+  h_min: 1
+  h_max: 6
 
-collections:
-  pages:
-    permalink: /:topic/:name:output_ext
-    output: true  
+#collections:
+#  pages:
+#    permalink: /:topic/:name:output_ext
+#    output: true  
     
 theme: jekyll-theme-minimal
 
