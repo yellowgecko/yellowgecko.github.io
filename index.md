@@ -6,3 +6,4 @@ permalink: /home/
 ---
 
 Hello!
+a demo page
