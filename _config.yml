@@ -5,7 +5,8 @@ toc:
   enabled: true
   h_min: 2
   h_max: 6
-# these categories are for page/file lists
+  
+# these categories are for page/file lists in the navigatin.html
 category-list: [strategy, basic]
 
 collections:
