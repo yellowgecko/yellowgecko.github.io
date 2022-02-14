@@ -2,7 +2,7 @@
 title: "TTM"
 layout:page
 permalink: /home/
-toc: true
+toc: false
 ---
 # TTM
 Hello!
