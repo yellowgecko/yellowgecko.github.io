@@ -41,6 +41,7 @@
         {% endif %}
       </header>
       <section>
+        {% include toc.html html=content sanitize=true h_min=2 h_max=4 %}
         {{ content }}
       </section>
       <footer>
