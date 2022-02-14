@@ -3,14 +3,15 @@
     <!-- <li> -->
     <br>
     {{ cat }}
-        <ul>
+        <!-- <ul> -->
     {% for order in (1..10) %}
     {% for page in site.pages %}
      {% if page.order == order %}   
         {% if page.resource == true %}
             {% for pc in page.categories %}
                 {% if pc == cat %}
-                <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                <!-- <li><a href="{{ page.url }}">{{ page.title }}</a></li> -->
+                - <a href="{{ page.url }}">{{ page.title }}</a><br>
                 {% endif %}
             {% endfor %}
         {% endif %}
@@ -18,7 +19,7 @@
     {% endfor %} <!-- page -->
 
   {% endfor %}
-    </ul>
+    <!-- </ul> -->
     <!-- </li> -->
     <br>
 {% endfor %}  <!-- cat -->
