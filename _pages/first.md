@@ -1,7 +1,7 @@
 ---
 title: "First Page"
 layout: default
-toc: true
+toc: false
 resource: true
 categories: [basic]
 order: 1
