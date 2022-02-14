@@ -2,7 +2,8 @@
 title: "First Page"
 layout: default
 toc: true
-
+category: basic
+order: 1
 ---
 # First page
 
