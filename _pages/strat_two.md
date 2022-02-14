@@ -3,7 +3,7 @@ title: "Strategy TWO"
 autho: "me"
 layout: page
 resource: true 
-category: strategy 
+categories: [strategy] 
 order: 3
 ---
 
