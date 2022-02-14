@@ -3,3 +3,7 @@ description: "A DeFi link list ..."
 
 
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-toc
+
