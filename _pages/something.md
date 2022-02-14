@@ -2,8 +2,9 @@
 title: "Soem detailed information"
 layout: default
 toc: true
-category: basic
-order: 1
+resource: true
+categories: [basic]
+order: 2
 ---
 # Some other page
 this is in category 'basic'
