@@ -1,6 +1,7 @@
 ---
 title: "First POST"
 layout: post
+author: yellow
 
 ---
 # First POST
