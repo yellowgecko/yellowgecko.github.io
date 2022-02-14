@@ -9,7 +9,7 @@ toc:
 category-list: [strategy, basic]
 
 collections:
-  strategy:
+  pages:
     permalink: /:collection/:title:output_ext
     output: true  
     
