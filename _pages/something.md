@@ -3,7 +3,7 @@ title: "Soem detailed information"
 layout: default
 toc: true
 resource: true
-categories: [basic]
+categories: [recipe]
 order: 2
 ---
 # Some other page
