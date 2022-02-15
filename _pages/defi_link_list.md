@@ -3,7 +3,7 @@ title: "A DeFi link list."
 layout: default
 toc: false
 resource: true
-categories: [other]
+categories: [Other]
 order: 1
 ---
 An unsorted list of links to tools, directories etc.
