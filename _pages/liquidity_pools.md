@@ -17,15 +17,13 @@ Provide liquidity to a DEX for a specific pair. Obviously one faces Impermanent 
 LP pay out a share of fees often in their own currency/own LP coins.  the value of which may vary or rapidly decrease. Often it is a manual task to collect and manage these rewards, frequency often limited by transaction fees.
 
 ##  high correlation pair
-1 It seems to be understood that pairs with high correlation (i.e. stablecoin - stablecoin) show lower risk of IP associated with a lower return in turn.
+1. It seems to be understood that pairs with high correlation (i.e. stablecoin - stablecoin) show lower risk of IP associated with a lower return in turn.
 Stable coin LPs tend to pay a higher APY in the form of the defi protocol's own token. Some of them become absolutely worthless very quickly. The volatility of that token is a risk you're taking. You could mitigate that by using an autocompounder but the point is that the nature of the risk is different from lending. Impermanent loss shouldn't even be a worry.Strategies
-2 Adjust a side on change/ swap in and out
+2. Adjust a side on change/ swap in and out
 Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
   a. when stable increases … borrow against LP token, borrow non-stable side, then swap for more stable. Use this to pay of stable loan
   b. other way around when coin increases
-  
- 3 Reduce IL risk with uneven LPs
+3. Reduce IL risk with uneven LPs
   [How to avoid IL](https://newsletter.banklesshq.com/p/how-to-avoid-impermanent-loss)
-  
-  4. Syrup Pools
+4. Syrup Pools
     supposed to allow single token pools
