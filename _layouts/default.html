@@ -42,6 +42,11 @@
         {% endif %}
       </header>
       <section>
+        <!-- Code to include ToC and page Title IF toc variable in front matter is true -->
+        {% if page.title %}
+	        <br /><strong>Title:</strong> {{ page.title }}
+		    {% endif %}
+        <hr>
         {% include toc.html html=content sanitize=true h_min=2 h_max=4 %}
         <!-- <p>This is text after the ToC.</p> -->
         {{ content }}
