@@ -9,17 +9,16 @@ order: 1
 ## A link list of useful DeFi related sites.
 
 An unsorted list of links to tools, directories etc.
-* A [link](http://kramdown.gettalong.org "hp") to the homepage.
 
-* DappRadar: [DappRadar](https://dappradar.com/)per chain, covers Defi, NFTs, games, etc
+* [DappRadar](https://dappradar.com/): per chain, covers Defi, NFTs, games, etc
 
-* Yield  farming Info:   a list of yield platforms across chains
+* Yield farming Info: [vfat tools](https://vfat.tools/)  a list of yield platforms across chains
 
-* Bitcoin MVRV Ratio:   supposedly the ONLY chart ever to be used for bitcoin
+* Bitcoin MVRV Ratio: [Woobull MVR chart](https://charts.woobull.com/bitcoin-mvrv-ratio/) supposedly the ONLY chart ever to be used for bitcoin
 
-* Dex Screener:   comprehensive list of LPs across chains
+* [Dex Screener](https://dexscreener.com/): a comprehensive list of LPs across chains
 
-* RugDoc  calendar:  RugDoc  upcoming launches and key events
+* [RugDoc calendar](https://rugdoc.io/):  RugDoc  upcoming launches and key events
 
 * ApeBord:   connect to your wallet for portfolio analysis
 
