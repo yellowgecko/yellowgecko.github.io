@@ -35,6 +35,7 @@ A lot of other platforms allow this same trick. It doesn't seem like it increase
 [Leverage AAVE market tokens](https://guide.qidao.community/tutorials/polygon/leverage-aave-tokens)
 
 **Example**
+
 Source: [Lend on stablecoin stake tokens](https://www.reddit.com/r/defi/comments/sgtbpu/what_lending_platforms_lend_on_stablecoin_stake/) and in particular [Route2Fl@twitter #1](https://twitter.com/Route2FI/status/1473626708314136585?s=20&t=RC0-nNEmxSKBBl2M9NorMw) and [Route2Fl@twitter #2](https://twitter.com/Route2FI/status/1454065822515830787)
 1. Deposit $10K UST in Anchor (you get aUST)
 2. Borrow mSLV with your aUST
