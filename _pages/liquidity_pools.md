@@ -6,7 +6,7 @@ resource: true
 categories: [strategy]
 order: 1
 ---
-## Reddit
+### Reddit
 [Liquidity Pools](https://www.reddit.com/r/CryptoCurrency/comments/mfk2oi/defi_explained_liquidity_pools/ "Source on  reddit")
 
 Provide liquidity to a DEX for a specific pair. Obviously one faces Impermanent loss (IP), explained here:
@@ -16,7 +16,7 @@ Provide liquidity to a DEX for a specific pair. Obviously one faces Impermanent 
 
 LP pay out a share of fees often in their own currency/own LP coins.  the value of which may vary or rapidly decrease. Often it is a manual task to collect and manage these rewards, frequency often limited by transaction fees.
 
-##  Strategies
+###  Strategies
 1. **high correlation pair**
 It seems to be understood that pairs with high correlation (i.e. stablecoin - stablecoin) show lower risk of IP associated with a lower return in turn.
 Stable coin LPs tend to pay a higher APY in the form of the defi protocol's own token. Some of them become absolutely worthless very quickly. The volatility of that token is a risk you're taking. You could mitigate that by using an autocompounder but the point is that the nature of the risk is different from lending. Impermanent loss shouldn't even be a worry.
@@ -27,4 +27,5 @@ Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
 3. **Reduce IL risk with uneven LPs**
   [How to avoid IL](https://newsletter.banklesshq.com/p/how-to-avoid-impermanent-loss)
 4. **Syrup Pools**
+
     supposed to allow single token pools
