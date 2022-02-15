@@ -18,24 +18,24 @@ An unsorted list of links to tools, directories etc.
 
 * [Dex Screener](https://dexscreener.com/): a comprehensive list of LPs across chains
 
-* [RugDoc calendar](https://rugdoc.io/):  RugDoc  upcoming launches and key events
+* [RugDoc calendar](https://rugdoc.io/):  RugDoc upcoming launches and key events
 
-* ApeBord:   connect to your wallet for portfolio analysis
+* [ApeBord](https://apeboard.finance/dashboard): Chross chain defi dashboard. Connect to your wallet for portfolio analysis
 
-* TokenTerminal:   Token  fundamentals for chains, markets, etc
+* [TokenTerminal](https://www.tokenterminal.com/):  Token  fundamentals for chains, markets, etc
 
-* Coindix:   directory/index of vaults across chains
+* [Coindix](https://coindix.com/): Directory/index of ranked vaults across chains
 
-* Tornado Cash:   whirl these ehtereums around
+* [Tornado Cash](https://tornado.cash/): whirl these ehtereums around
 
-* DefiYield App:   connect to wallet to use tools to analyse and secure
+* [DefiYield App](https://defiyield.app/):  Connect to wallet to use tools to analyse and secure
 
-* Defi Pulse:  a DeFi leaderboard/ index
+* [Defi Pulse](https://www.defipulse.com/):  a DeFi leaderboard/ index
 
-* Zapper:  a dashboard to manage your portofolio and direct investments
+* [Zapper](https://zapper.fi/): A dashboard to manage your portofolio and direct investments
 
-* Zerian.io:   another DeFi investment platform
+* [Zerian.io](https://zerion.io/): Another DeFi investment platform
 
-* DeBank:   a DeFi wallet
+* [DeBank](https://debank.live/): A DeFi wallet analytics tools/ wallet based portfolio management review
 
-* Defi Prime:   catalogue going beyond just defi projects, i.e. DigitalID, etc.
+* [Defi Prime](https://defiprime.com/):   catalogue going beyond just defi projects, i.e. DigitalID, etc.
