@@ -1,7 +1,7 @@
 ---
 title: "Strategy one"
-author: "me"
 layout: default
+toc: false
 resource: true 
 categories: [strategy]
 order: 1
