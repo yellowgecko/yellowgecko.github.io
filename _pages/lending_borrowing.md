@@ -12,7 +12,7 @@ order: 2
 #### CEX lending
 non de-central platforms offering a return for depositing crypto including stable coins. Often offering a 10+% return on stable coins.
 
-Key examples:
+*Key examples:*
 :   hodlnaut
 :   youhodl
 :   swissborg finance
@@ -27,8 +27,10 @@ Key examples:
 :   blockFi
 
 
-#### Key points
-
+*Key points*
 :   may require a deposit and/or interest payment in their native token
 :   are centralised
 :   if stablecoin is an ethereum token factor in transaction costs if no other alternative chain is available
+
+#### DEX lending
+prime example is AAVE/avax
