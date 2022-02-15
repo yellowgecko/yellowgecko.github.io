@@ -7,12 +7,11 @@ categories: [Strategies]
 order: 2
 ---
 
-#### [Reddit introduction ön Lending & Borrowing](https://www.reddit.com/r/CryptoCurrency/comments/mnzv1c/defi_explained_lending_borrowing/)
+### [Reddit introduction ön Lending & Borrowing](https://www.reddit.com/r/CryptoCurrency/comments/mnzv1c/defi_explained_lending_borrowing/)
 
-#### CEX lending
+### CEX lending
 non de-central platforms offering a return for depositing crypto including stable coins. Often offering a 10+% return on stable coins.
-
-*Key examples:*
+**Key examples:**
 :   hodlnaut
 :   youhodl
 :   swissborg finance
@@ -27,11 +26,11 @@ non de-central platforms offering a return for depositing crypto including stabl
 :   blockFi
 
 
-
-*Key points:*
+**Key points:**
 *   may require a deposit and/or interest payment in their native token
 *   are centralised
 *   if stablecoin is an ethereum token factor in transaction costs if no other alternative chain is available
 
-#### DEX lending
+
+### DEX lending
 prime example is AAVE/avax
