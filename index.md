@@ -2,7 +2,6 @@
 title: "To The Moon"
 layout: default
 toc: true
-permalink: /home/
 ---
 # TTM
 Hello!
