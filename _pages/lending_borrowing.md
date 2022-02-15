@@ -11,6 +11,7 @@ order: 2
 
 ### CEX lending
 non de-central platforms offering a return for depositing crypto including stable coins. Often offering a 10+% return on stable coins.
+
 **Key examples:**
 :   hodlnaut
 :   youhodl
