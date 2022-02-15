@@ -2,7 +2,7 @@
 title: "To The Moon"
 layout:page
 permalink: /home/
-toc: false
+toc: true
 ---
 # TTM
 Hello!
