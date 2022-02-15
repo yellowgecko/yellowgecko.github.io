@@ -1,7 +1,8 @@
 ---
 title: "To The Moon"
+description: "A collection of links relating to DeFi"
 layout: default
-toc: true
+toc: false
 ---
 # TTM
 Hello!
