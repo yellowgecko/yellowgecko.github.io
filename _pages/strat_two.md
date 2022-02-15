@@ -1,17 +1,10 @@
 ---
-title: "Strategy TWO"
+title: "Indices"
 layout: default
 toc: false
 resource: true 
 categories: [Strategies] 
-order: 3
+order: 4
 ---
+#### [Reddit introduction to Indices](https://www.reddit.com/r/CryptoCurrency/comments/muonht/defi_explained_indices/)
 
-# Second strategy
-2nd strategy ...
-
-## why?
-Why we do this?
-
-## How?
-How to get there?
