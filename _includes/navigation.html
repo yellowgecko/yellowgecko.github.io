@@ -1,7 +1,7 @@
-<ul>
+
 {% for cat in site.category-list %}
     <!-- <li> -->
-    {{ cat }}
+    <strong>{{ cat }}</strong>
     <br>
         <!-- <ul> -->
     {% for order in (1..10) %}
@@ -10,8 +10,9 @@
         {% if page.resource == true %}
             {% for pc in page.categories %}
                 {% if pc == cat %}
-                <!-- <li><a href="{{ page.url }}">{{ page.title }}</a></li> -->
-                - <a href="{{ page.url }}">{{ page.title }}</a><br>
+            
+<!-- <li><a href="{{ page.url }}">{{ page.title }}</a></li> -->
+                (&nbsp;)(&nbsp;)(&nbsp;)<a href="{{ page.url }}">{{ page.title }}</a><br>
                 {% endif %}
             {% endfor %}
         {% endif %}
@@ -23,4 +24,4 @@
     <!-- </li> -->
     <br>
 {% endfor %}  <!-- cat -->
-  </ul>
+
