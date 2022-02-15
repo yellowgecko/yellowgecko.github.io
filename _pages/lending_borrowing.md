@@ -7,7 +7,7 @@ categories: [Strategies]
 order: 2
 ---
 
-#### [Reddit introduction](https://www.reddit.com/r/CryptoCurrency/comments/mnzv1c/defi_explained_lending_borrowing/)
+#### [Reddit introduction ön Lending & Borrowing](https://www.reddit.com/r/CryptoCurrency/comments/mnzv1c/defi_explained_lending_borrowing/)
 
 #### CEX lending
 non de-central platforms offering a return for depositing crypto including stable coins. Often offering a 10+% return on stable coins.
