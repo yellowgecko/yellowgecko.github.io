@@ -25,7 +25,6 @@ non de-central platforms offering a return for depositing crypto including stabl
 :   celsius
 :   blockFi
 
-
 **Key points:**
 *   may require a deposit and/or interest payment in their native token
 *   are centralised
