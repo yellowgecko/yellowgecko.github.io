@@ -3,7 +3,7 @@ title: "Strategy THREE"
 layout: default
 toc: true
 resource: true
-categories: [strategy]
+categories: [Strategies]
 order: 2
 ---
 
