@@ -13,7 +13,7 @@ A number of Defi platforms offer auto compounding, mostly as part of a strategy.
 * Beefy
 * yearn.finance [The  vaults ot vf](https://vaults.yearn.finance/) documents the variöus strategies
 * [HappyHippo](https://happyhippo.farm) takes percentage of profit for providing strategies
-* [Balancer.fi](https://balancer.fi/) | [app](https://app.balancer.fi/) | [strategy](https://newsletter.banklesshq.com/p/how-to-make-bank-with-balancer-liquidity) | [v2 guide](https://newsletter.banklesshq.com/p/how-to-use-balancer-v2)
+* [Balancer.fi](https://balancer.fi/) \| [app](https://app.balancer.fi/) \| [strategy](https://newsletter.banklesshq.com/p/how-to-make-bank-with-balancer-liquidity) \| [v2 guide](https://newsletter.banklesshq.com/p/how-to-use-balancer-v2)
  * yield.yak
  * bifi
  * autofarm
@@ -49,4 +49,3 @@ Source: [Lend on stablecoin stake tokens](https://www.reddit.com/r/defi/comments
 * [MAI finance](https://www.mai.finance/)
 * [Convex finance](https://www.convexfinance.com/)
 * [OIN finance](https://v3.oin.finance/)
-* 
