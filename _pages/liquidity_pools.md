@@ -22,8 +22,8 @@ It seems to be understood that pairs with high correlation (i.e. stablecoin - st
 Stable coin LPs tend to pay a higher APY in the form of the defi protocol's own token. Some of them become absolutely worthless very quickly. The volatility of that token is a risk you're taking. You could mitigate that by using an autocompounder but the point is that the nature of the risk is different from lending. Impermanent loss shouldn't even be a worry.
 2. **Adjust a side on change/ swap in and out**
 Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
-    a. when stable increases … borrow against LP token, borrow non-stable side, then swap for more stable. Use this to pay of stable loan
-    b. other way around when coin increases
+ a. when stable increases … borrow against LP token, borrow non-stable side, then swap for more stable. Use this to pay of stable loan
+ b. other way around when coin increases
 3. **Reduce IL risk with uneven LPs**
   [How to avoid IL](https://newsletter.banklesshq.com/p/how-to-avoid-impermanent-loss)
 4. **Syrup Pools**
