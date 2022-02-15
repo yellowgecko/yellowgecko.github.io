@@ -6,8 +6,6 @@ resource: true
 categories: [other]
 order: 1
 ---
-## A link list of useful DeFi related sites.
-
 An unsorted list of links to tools, directories etc.
 
 * [DappRadar](https://dappradar.com/): per chain, covers Defi, NFTs, games, etc
