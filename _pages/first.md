@@ -3,7 +3,7 @@ title: "First Page"
 layout: default
 toc: false
 resource: true
-categories: [basic]
+categories: [other]
 order: 1
 ---
 # First page
