@@ -10,9 +10,9 @@ order: 1
 [Liquidity Pools](https://www.reddit.com/r/CryptoCurrency/comments/mfk2oi/defi_explained_liquidity_pools/ "Source on  reddit")
 
 Provide liquidity to a DEX for a specific pair. Obviously one faces Impermanent loss (IP), explained here:
-* [Impermanent Loss explained](https://finematics.com/impermanent-loss-explained/)
-* [Impermanent Loss](https://3commas.io/academy/articles/impermanent-loss-explained)
-* [Impermanent Loss simple explanation](https://3commas.io/academy/articles/impermanent-loss-explained)
+: [Impermanent Loss explained](https://finematics.com/impermanent-loss-explained/)
+: [Impermanent Loss](https://3commas.io/academy/articles/impermanent-loss-explained)
+: [Impermanent Loss simple explanation](https://3commas.io/academy/articles/impermanent-loss-explained)
 
 LP pay out a share of fees often in their own currency/own LP coins.  the value of which may vary or rapidly decrease. Often it is a manual task to collect and manage these rewards, frequency often limited by transaction fees.
 
