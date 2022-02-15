@@ -4,7 +4,7 @@ layout: default
 toc: false
 permalink: /about/
 resource: false
-categories: [basic]
+categories: [Other]
 order: 6
 ---
 
