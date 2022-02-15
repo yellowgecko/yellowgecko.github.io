@@ -3,6 +3,9 @@ title: "To The Moon"
 description: "A collection of links relating to DeFi"
 layout: default
 toc: false
+resource: false
+categories: [Strategies]
+order: 0
 ---
 ### DeFi?
 A collection of links relating to DeFi.
