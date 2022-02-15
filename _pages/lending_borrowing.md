@@ -27,7 +27,7 @@ non de-central platforms offering a return for depositing crypto including stabl
 :   blockFi
 
 
-*Key points*
+*Key points:*
 :   may require a deposit and/or interest payment in their native token
 :   are centralised
 :   if stablecoin is an ethereum token factor in transaction costs if no other alternative chain is available
