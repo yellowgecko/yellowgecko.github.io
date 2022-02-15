@@ -1,6 +1,7 @@
 
 {% for cat in site.category-list %}
     <!-- <li> -->
+    <br>
     <strong>{{ cat }}</strong>
     <br>
         <!-- <ul> -->
@@ -12,7 +13,7 @@
                 {% if pc == cat %}
             
 <!-- <li><a href="{{ page.url }}">{{ page.title }}</a></li> -->
-                (&nbsp;)(&nbsp;)(&nbsp;)<a href="{{ page.url }}">{{ page.title }}</a><br>
+                &nbsp;&nbsp;&nbsp;<a href="{{ page.url }}">{{ page.title }}</a><br>
                 {% endif %}
             {% endfor %}
         {% endif %}
