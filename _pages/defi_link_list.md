@@ -1,5 +1,5 @@
 ---
-title: "A DeFi link list."
+title: "A link list to DeFi tools"
 layout: default
 toc: false
 resource: true
