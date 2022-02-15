@@ -1,6 +1,6 @@
 ---
 title: "To The Moon"
-layout:page
+layout: page
 permalink: /home/
 toc: true
 ---
