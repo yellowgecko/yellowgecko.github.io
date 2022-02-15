@@ -6,7 +6,7 @@ resource: true
 categories: [Strategies]
 order: 3
 ---
-#### [Reddit](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)
+#### [Reddit introductiön on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)
 
 #### Auto Compounding/ Yield optimizers
 A number of Defi platforms offer auto compounding, mostly as part of a strategy. Maybe managed strategies would be a better term. Relevant sites are
