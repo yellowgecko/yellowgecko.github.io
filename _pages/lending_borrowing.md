@@ -25,6 +25,8 @@ Key examples:
 :   ledn.io
 :   celsius
 :   blockFi
+
+
 ### Key points
 : may require a deposit and/or interest payment in their native token
 : are centralised
