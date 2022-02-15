@@ -1,7 +1,7 @@
 ---
 title: "Strategy THREE"
-author: "me"
 layout: default
+toc: true
 resource: true
 categories: [strategy]
 order: 2
