@@ -3,7 +3,7 @@ title: "Liquidity Pools"
 layout: default
 toc: true
 resource: true
-categories: [strategy]
+categories: [Strategies]
 order: 1
 ---
 ### Reddit
