@@ -3,7 +3,7 @@ title: "Staking Recipies"
 layout: default
 toc: true
 resource: true 
-categories: [Recipies] 
+categories: [Recipes] 
 order: 1
 ---
 ## CHIHUAHUA
