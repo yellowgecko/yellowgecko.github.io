@@ -44,7 +44,12 @@ use Daedalus wallet
 <br><br>
 
 ### MATIC
-..
+MATIC is native token of POLYGON net. Services on polygon are:
+
+* balancer
+* QI DAO
+* [Umbria Narni Pool](https://bridge.umbria.network/pool/) allöws single asset lending
+* [Optical Finance](http://www.optical.finance/)
 
 <br><br>
 
