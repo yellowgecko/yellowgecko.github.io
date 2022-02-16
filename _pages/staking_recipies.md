@@ -6,7 +6,9 @@ resource: true
 categories: [Recipes] 
 order: 1
 ---
-## CHIHUAHUA
+## Staking
+
+### CHIHUAHUA
 It’s a MEME, you gotta have it
 Yield Farm $CHIHUAHUA On Osmosis DEX for 400% APR
 *    Install Keplr wallet
@@ -29,16 +31,16 @@ Yield Farm $CHIHUAHUA On Osmosis DEX for 400% APR
 Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&ab_channel=investwithjo)
 
 
-## ADA
+### ADA
 stake  ADA directly in the YOROI wallet for 5.8% [Yoroi wallet](https://yoroi-wallet.com/#/)
 OR
 lend on venus/BSC and borrow and stake stable coin
 
 
-## MATIC
+### MATIC
 ..
 
-## NEAR
+### NEAR
 use NEAR wallet. can stake via wallet  
 take liquidity to REF finance for single sided staking.  
 get to NEAR via  binance. alternative routes?  
@@ -46,7 +48,22 @@ check metapool
 [NEAR/Aurora yield farm guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
 
 
-## ETH2
-stake ETH2 using the GUARDA wallet and/or Rocketpool.
-
+### ETH2
+stake ETH2 using the GUARDA wallet and/or Rocketpool.  
 get rETH (assume this is staked ETH) on uniswap
+
+## Routes
+
+### UST/Terra
+via binance ...
+
+### ETH/BTC to Fantom
+* via Binance
+    * change to Fantom
+    * withdraw to Fantom wallet
+    * connect to Spookyswap or Spiritswap
+    * change bakc to BTC/ETH (assumed this will be wrappeg accordingly)
+* BTC from binance
+    * withdraw to BSC wallet
+    * It will get wrappes as BRC20 token
+    * connect to Spookyswap bridge 
