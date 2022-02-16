@@ -19,9 +19,9 @@ Yield Farm $CHIHUAHUA On Osmosis DEX for 400% APR
 *   Withdraw HUAHUA from ‘Assets’ tab
 *   Navigate to Omniflix ‘stake’ page
 *   Choose a Validator to stake with
-    a. Do not choose a centralized exchange or Top 10
-    b. Do not choose 100% commission validator
-    c. Research who the validator is
+    1. Do not choose a centralized exchange or Top 10
+    2. Do not choose 100% commission validator
+    3. Research who the validator is
 *   Decide what to do with your rewards
 *   Restake them daily
 *   Convert to another coin
