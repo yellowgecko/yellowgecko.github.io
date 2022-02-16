@@ -39,14 +39,10 @@ lend on venus/BSC and borrow and stake stable coin
 ..
 
 ## NEAR
-use NEAR wallet. can stake via wallet
-
-take liquidity to REF finance for single sided staking.
-
-get to NEAR via  binance. alternative routes?
-
-check metapool
-
+use NEAR wallet. can stake via wallet  
+take liquidity to REF finance for single sided staking.  
+get to NEAR via  binance. alternative routes?  
+check metapool  
 [NEAR/Aurora yield farm guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
 
 
