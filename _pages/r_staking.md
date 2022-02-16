@@ -6,6 +6,8 @@ resource: true
 categories: [Recipes] 
 order: 1
 ---
+<br><br>
+
 ## Staking
 
 ### CHIHUAHUA
@@ -30,6 +32,7 @@ Yield Farm $CHIHUAHUA On Osmosis DEX for 400% APR
 
 Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&ab_channel=investwithjo)
 
+<br><br>
 
 ### ADA
 stake  ADA directly in the YOROI wallet for 5.8% [Yoroi wallet](https://yoroi-wallet.com/#/)
@@ -38,9 +41,12 @@ lend on venus/BSC and borrow and stake stable coin
 OR
 use Daedalus wallet
 
+<br><br>
 
 ### MATIC
 ..
+
+<br><br>
 
 ### NEAR
 use NEAR wallet. can stake via wallet  
@@ -49,15 +55,20 @@ get to NEAR via  binance. alternative routes?
 check metapool  
 [NEAR/Aurora yield farm guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
 
+<br><br>
 
 ### ETH2
 stake ETH2 using the GUARDA wallet and/or Rocketpool.  
 get rETH (assume this is staked ETH) on uniswap
 
+<br><br><br><br>
+
 ## Routes
 
 ### UST/Terra
 via binance ...
+
+<br><br>
 
 ### ETH/BTC to Fantom
 * via Binance
