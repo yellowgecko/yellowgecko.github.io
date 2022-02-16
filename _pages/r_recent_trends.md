@@ -106,6 +106,7 @@ stake CAKE in autopool
 ### sUSD on AAVE for 45% APY
 _(Note: understand synthetics first)_
 
+<br><br>
 
 ### Anchor/NEAR 20% USDT
 anchor protocol on NEAR. onion money supposed to be alternative front end
