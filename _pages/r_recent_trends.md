@@ -33,11 +33,14 @@ The two most common ways this can be profitable are [Reddit source](https://www.
 *   take 80% MAI loan and use to LP farm i.e. wETH/MATIC 
 
 
+
 ### Convex
 *   lock CVX … from votium.app get ‘bribes’
 *   stake CVXCRV
 *   deposit into CURVE but don’t stake with gauge
 *   then stake LP on convex
+
+
 
 ### staked NEAR to ref finance
 *    stake NEAR in Nearwallet directly
@@ -45,11 +48,13 @@ The two most common ways this can be profitable are [Reddit source](https://www.
 (is this either both?)
 
 
+
 ### Stablecoin leverage on Fantom
 *   on revenent.finance borrow cUSD against yuUSD
 *   (and where do  i get yuUSD in the first place?)
 *   drop into incentive pool on curve
 stake … for credit (???)
+
 
 
 ### Loop UST on Terra with silver
@@ -63,8 +68,8 @@ On Terra you can use your UST in Anchor Earn for 20% APY and then use that depos
 
 This strategy works when:
 *   The price of mSLV stays flat or goes down
-*   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year\\
-*   The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
+*   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year   
+The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
 
 **comments on UST on Anchor:**
 
@@ -75,3 +80,20 @@ as famous as AAVE. Fourthly maybe you're stuck on one chain or another for other
 their funds on AAVE and they may not have the technical ability to flip their funds across different chains.
 
 [More LUNA stats](https://coinsutra.com/terra-network-luna-token-analysis/)
+
+
+
+
+### CAKE/LEON/LEOS
+_(Note: this is far from clear, need to find original comment)_
+
+all 3 are BSC dex tokens so stay on BSC chain.
+
+use pancakeswap or leonicornswap
+
+stake CAKE in autopool
+
+1/2 LEON and LEOS into single staking
+
+1/2 + liquidity into staking LPs
+
