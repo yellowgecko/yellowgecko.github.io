@@ -47,9 +47,15 @@ use Daedalus wallet
 MATIC is native token of POLYGON net. Services on polygon are:
 
 * balancer
-* QI DAO
+* QI DAO, [QI DAO  guides](https://guide.qidao.community/tutorials/polygon)
 * [Umbria Narni Pool](https://bridge.umbria.network/pool/) allöws single asset lending
 * [Optical Finance](http://www.optical.finance/)
+
+
+*   Deposit DAI on AAVE
+*   Deposit amDAI (assume recevied for the initial deposit) ON MAI.FINANCE for camDAI
+*   Deposit camDAI in vault (which one?) [camDAI beginner strategies](https://guide.qidao.community/tutorials/polygon/camdai-beginner-strategy)
+*   take 80% MAI loan and use to LP farm i.e. wETH/MATIC 
 
 <br><br>
 
