@@ -40,7 +40,7 @@ An unsorted list of links to tools, directories etc.
 
 <br><br>
 
-**Web3 dev tool stack**
+### Web3 tool stack
 [Full stack Web3 dev](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74) 
 and [Introdcutiry guide to web3 stack](https://edgeandnode.com/blog/defining-the-web3-stack)
 
