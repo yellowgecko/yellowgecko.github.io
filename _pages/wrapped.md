@@ -15,7 +15,7 @@ Wrap BTC using renbridge
 
 Wrap ETH using cbridge
 
-swap using **multichain.org**
+swap using [https://multichain.org/](**multichain.org**)
 
 Withdraw to BSC metamask wallet. This will wrap BTC/ETH to the equivalent BRC20 token
 
