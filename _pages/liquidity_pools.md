@@ -6,7 +6,10 @@ resource: true
 categories: [Strategies]
 order: 1
 ---
-### Reddit
+
+<br><br>
+
+### Reddit Introduction
 [Reddit Introduction to Liquidity Pools](https://www.reddit.com/r/CryptoCurrency/comments/mfk2oi/defi_explained_liquidity_pools/ "Source on  reddit")
 
 Quote from reddit: *Don’t think convex is a great option for stable farms unless you want volatile rewards tokens like cvx or crv. But is still a good protocol if you’re looking it make some money LPing stables or if you’re long on cvx/crv.*
@@ -18,6 +21,8 @@ Provide liquidity to a DEX for a specific pair. Obviously one faces Impermanent 
 : [Impermanent Loss simple explanation](https://3commas.io/academy/articles/impermanent-loss-explained)
 
 LP pay out a share of fees often in their own currency/own LP coins.  the value of which may vary or rapidly decrease. Often it is a manual task to collect and manage these rewards, frequency often limited by transaction fees.
+
+<br><br>
 
 ###  Strategies
 1. **high correlation pair**\\
