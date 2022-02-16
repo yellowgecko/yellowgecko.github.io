@@ -97,3 +97,15 @@ stake CAKE in autopool
 
 1/2 + liquidity into staking LPs
 
+
+
+### AAVE borrow stablecion for crypto
+
+
+
+### sUSD on AAVE for 45% APY
+_(Note: understand synthetics first)_
+
+
+### Anchor/NEAR 20% USDT
+anchor protocol on NEAR. onion money supposed to be alternative front end
