@@ -35,6 +35,8 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 stake  ADA directly in the YOROI wallet for 5.8% [Yoroi wallet](https://yoroi-wallet.com/#/)
 OR
 lend on venus/BSC and borrow and stake stable coin
+OR
+use Daedalus wallet
 
 
 ### MATIC
