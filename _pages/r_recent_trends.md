@@ -29,13 +29,6 @@ repay my loan, and pocket the other 250 USDC.
 ### Uniswap guide
 [Uniswap howto](https://newsletter.banklesshq.com/p/how-to-make-money-with-uniswap-v3)
 
-<br><br>
-
-### Polygon
-*   Deposit DAI on AAVE
-*   Deposit amDAI (assume recevied for the initial deposit) ON MAI.FINANCE for camDAI
-*   Deposit camDAI in vault (which one?)
-*   take 80% MAI loan and use to LP farm i.e. wETH/MATIC 
 
 <br><br>
 
