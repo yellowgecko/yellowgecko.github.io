@@ -37,3 +37,8 @@ An unsorted list of links to tools, directories etc.
 * [DeBank](https://debank.live/): A DeFi wallet analytics tools/ wallet based portfolio management review
 
 * [Defi Prime](https://defiprime.com/):   catalogue going beyond just defi projects, i.e. DigitalID, etc.
+
+<br><br>
+
+**Web3 dev tool stack**
+[Full stack Web3 dev](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
