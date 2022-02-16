@@ -8,7 +8,7 @@ order: 7
 ---
 #### [Reddit introduction to Wrapped Bitcoins](https://www.reddit.com/r/CryptoCurrency/comments/mh2oc7/defi_explained_wrapped_bitcoin/)
 * On Binance swap BTC or ETH for FTM
-* withdraw to Fantom wallet via  fantöm (not ERC 20!)
+* withdraw to Fantom wallet via Fantom (not ERC 20!)
 * On Fantom swap FTM to BTC via Spookyswap or Spiritswap
 
 Wrap BTC using renbridge
