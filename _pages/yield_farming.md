@@ -6,9 +6,9 @@ resource: true
 categories: [Strategies]
 order: 3
 ---
-#### [Reddit introductiön on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)
+**[Reddit introductiön on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)**
 
-#### Auto Compounding/ Yield optimizers
+### Auto Compounding/ Yield optimizers
 A number of Defi platforms offer auto compounding, mostly as part of a strategy. Maybe managed strategies would be a better term. Relevant sites are
 * Beefy
 * yearn.finance [The  vaults ot vf](https://vaults.yearn.finance/) documents the variöus strategies
@@ -31,7 +31,7 @@ In the end, for your initial 1000DAI you might have a position like 5000DAI lent
 
 A lot of other platforms allow this same trick. It doesn't seem like it increases your liquidation risk significantly although there can be a lot of gas fees to enter and exit such a position since you are doing multiple borrow/lend cycles. You also have to be careful you don't mess something up and get liquidated.
 
-#### Looping Tutorial
+### Looping Tutorial
 [Leverage AAVE market tokens](https://guide.qidao.community/tutorials/polygon/leverage-aave-tokens)
 
 **Example**
@@ -50,3 +50,10 @@ Source: [Lend on stablecoin stake tokens](https://www.reddit.com/r/defi/comments
 * [MAI finance](https://www.mai.finance/)
 * [Convex finance](https://www.convexfinance.com/)
 * [OIN finance](https://v3.oin.finance/)
+
+**Platform yield farming guides**
+* [NEAR yiekd farming guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
+* [Fantom yield farming guide](https://blog.defiyield.app/ultimate-yield-farming-guide-for-fantom-network-5c5dea0c719a)
+* [Binance yield farming guide](https://blog.defiyield.app/the-ultimate-guide-for-yield-farming-with-binance-chain-dbc23beb6df4)
+* [Terra/Luna yield farming guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-terra-blockchain-luna-infographics-ad2cedc9238c)
+
