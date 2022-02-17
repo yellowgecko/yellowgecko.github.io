@@ -93,4 +93,4 @@ get rETH (assume this is staked ETH) on uniswap
 <br>
 
 #### Bridging
-See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.
+See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap.
