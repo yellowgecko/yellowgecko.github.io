@@ -7,8 +7,7 @@ categories: [Strategies]
 order: 8
 ---
 ## [Reddit introduction to Stablecoins](https://www.reddit.com/r/CryptoCurrency/comments/mysxvz/defi_explained_stablecoins/)
-Stablecoins are tokens pegged to a fiat currency. Some notable stable coins are:
-
+Stablecoins are tokens pegged to a fiat currency. Some notable stable coins are.
 
 : USDC
 : Tether/USDT
