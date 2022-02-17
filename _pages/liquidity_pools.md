@@ -10,8 +10,8 @@ order: 1
 <br><br>
 
 ### What are Liquidity Pools?
-Liquidity pools are pools of tokens that are locked in a smart contract. Their role is to provide liquidity of decentralised exchanges. By offering liquidity, they guarantee trading, and because of this, they are widely used by decentralized exchanges. Liquidity pools, in essence, are the trading aspect of a decentralized exchange. As decentralised exchanges deploy Automated Market Makers (AMM) for price finding they introduce the risk of _impermanent loss_.
-[Reddit Introduction to Liquidity Pools](https://www.reddit.com/r/CryptoCurrency/comments/mfk2oi/defi_explained_liquidity_pools/ "Source on  reddit")
+Liquidity pools are pools of tokens that are locked in a smart contract. Their role is to provide liquidity of decentralised exchanges. By offering liquidity, they guarantee trading, and because of this, they are widely used by decentralized exchanges. Liquidity pools, in essence, are the trading aspect of a decentralized exchange. As decentralised exchanges deploy Automated Market Makers (AMM) for price finding they introduce the risk of _impermanent loss_. [Reddit Introduction to Liquidity Pools](https://www.reddit.com/r/CryptoCurrency/comments/mfk2oi/defi_explained_liquidity_pools/ "Source on  reddit")
+
 Impermanent loss (IP), explained here:
 
 : [Impermanent Loss explained](https://finematics.com/impermanent-loss-explained/)
