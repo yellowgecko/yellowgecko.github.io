@@ -19,7 +19,9 @@ A number of Defi platforms offer auto compounding, mostly as part of a strategy.
  * autofarm
  * wonderland
  * popsicle finance
- 
+
+<br><br><br>
+
 ## Looping
 leverage yield on stable coins/ use deposit as collateral to borrow to reinvest. 
 #### What is looping?
