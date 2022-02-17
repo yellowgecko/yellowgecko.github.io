@@ -38,6 +38,8 @@ An unsorted list of links to tools, directories etc.
 
 * [Defi Prime](https://defiprime.com/):   catalogue going beyond just defi projects, i.e. DigitalID, etc.
 
+* [Chainlink](https://chainlist.org/) has a list of available chains (... and the corresponding metamask settings)
+
 <br><br>
 
 ### Web3 tool stack
