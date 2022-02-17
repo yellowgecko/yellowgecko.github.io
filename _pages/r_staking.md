@@ -93,4 +93,4 @@ get rETH (assume this is staked ETH) on uniswap
 <br>
 
 #### Bridging
-**TBC**
+See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.
