@@ -77,7 +77,7 @@ get rETH (assume this is staked ETH) on uniswap
 ## Routes
 **Routes** details how to get coins/token as from one platform/chains to another. The examples below rely on bridges or a centralized exchange to change from öne chain to another
 
-<br><br>
+<br>
 
 #### ETH/BTC to Fantom via centralised exchange
 * via Binance
@@ -90,7 +90,7 @@ get rETH (assume this is staked ETH) on uniswap
     * It will get wrappes as BRC20 token
     * connect to Spookyswap bridge
 
-<br><br>
+<br>
 
 #### Bridging
 **TBC**
