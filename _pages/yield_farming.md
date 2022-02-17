@@ -38,7 +38,7 @@ A lot of other platforms allow this same trick. It doesn't seem like it increase
 #### Looping Tutorial
 [Leverage AAVE market tokens](https://guide.qidao.community/tutorials/polygon/leverage-aave-tokens)
 
-<br><br><br>
+<br><br>
 
 #### Example
 
@@ -50,7 +50,7 @@ Source: [Lend on stablecoin stake tokens](https://www.reddit.com/r/defi/comments
 5. You now have $20K UST earning 19,5% APY instead of $10K
 6. Buy mSLV on dips to hedge
 
-<br><br><br>
+<br><br>
 
 #### Platforms
 * [Abracadabra.money](https://abracadabra.money/)
@@ -59,7 +59,7 @@ Source: [Lend on stablecoin stake tokens](https://www.reddit.com/r/defi/comments
 * [Convex finance](https://www.convexfinance.com/)
 * [OIN finance](https://v3.oin.finance/)
 
-<br><br><br>
+<br><br>
 
 #### Platform yield farming guides
 * [NEAR yiekd farming guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
