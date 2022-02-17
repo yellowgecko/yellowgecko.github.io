@@ -75,11 +75,11 @@ get rETH (assume this is staked ETH) on uniswap
 <br><br><br><br>
 
 ## Routes
-**Routes** details how to get cöins/tokenas from one platform/chains to another. The example below exclude bridging and rely on a centralized exchange to change chains.
+**Routes** details how to get coins/token as from one platform/chains to another. The examples below rely on bridges or a centralized exchange to change from öne chain to another
 
 <br><br>
 
-#### ETH/BTC to Fantom
+#### ETH/BTC to Fantom via centralised exchange
 * via Binance
     * change to Fantom
     * withdraw to Fantom wallet
@@ -88,4 +88,9 @@ get rETH (assume this is staked ETH) on uniswap
 * BTC from binance
     * withdraw to BSC wallet
     * It will get wrappes as BRC20 token
-    * connect to Spookyswap bridge 
+    * connect to Spookyswap bridge
+
+<br><br>
+
+#### Bridging
+**TBC**
