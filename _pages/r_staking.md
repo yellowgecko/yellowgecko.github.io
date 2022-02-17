@@ -75,13 +75,11 @@ get rETH (assume this is staked ETH) on uniswap
 <br><br><br><br>
 
 ## Routes
-
-### UST/Terra
-via binance ...
+**Routes** details how to get cöins/tokenas from one platform/chains to another. The example below exclude bridging and rely on a centralized exchange to change chains.
 
 <br><br>
 
-### ETH/BTC to Fantom
+#### ETH/BTC to Fantom
 * via Binance
     * change to Fantom
     * withdraw to Fantom wallet
