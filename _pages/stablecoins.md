@@ -9,13 +9,14 @@ order: 8
 ## [Reddit introduction to Stablecoins](https://www.reddit.com/r/CryptoCurrency/comments/mysxvz/defi_explained_stablecoins/)
 Stablecoins are tokens pegged to a fiat currency. Some notable stable coins are:
 
-:   USDC
-:   Tether/USDT
-:   Binance USD/BUSD
-:   TerraUSD/UST
-:   Dai/DAI
-:   Gemini Dollar/GUSD
-:   Paxos Standard Token/PAX
+
+: USDC
+: Tether/USDT
+: Binance USD/BUSD
+: TerraUSD/UST
+: Dai/DAI
+: Gemini Dollar/GUSD
+: Paxos Standard Token/PAX
 
 There are 4 types of stablecoins:
 1. Fiat collaterized
