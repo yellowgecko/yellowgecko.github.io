@@ -98,10 +98,12 @@ _(Note: understand synthetics first)_
 ### Anchor/NEAR 20% USDT
 anchor protocol on NEAR. onion money supposed to be alternative front end
 
+Anchor and Osmosis Dex are my best passive income strategies. I stake UST on Anchor while I provide liquidity on NGM, STARS, CMDX, EEUR pools on Osmosis Dex.
 <br><br>
 
 ### OSMOSIS.ZONE examples
 staking ATOM, receive OSMO and JUNO on Osmosis (Atom DEX)
+reference to KEPL wallet
 Here's the yields for pool #601 on osmosis for example:
 >🧪 osmosis pool 601 50% CMDX / 50% OSMO
 > liquidity: 3,815,257.87 CMDX 963,665.79 OSMO
@@ -138,3 +140,22 @@ Hundred Finance has 20-35% stablecoin staking
 Fantom, Harmony, and (recently) Aurora. And mostly using med risks strategies with LPs in AstroPort (Terra), Defi Kingdoms (Harmony) and high risk with LPs in Trisolaris (Aurora) and Wonderland (Avalanche).
 
 polygon.balancer.fi 
+
+<br><br><br>
+
+### HappyHippo on BSC
+happyhippo, it has lower fees than beefy although it is only available for BSC, but BNB-CAKE is pretty much everything BSC is anyway
+
+BNB CAKE pairs in HappyHippo.farm. Use trust wallet / hardware wallet. get your BNB, zap to BNB-CAKE LP for 50% LP income haha
+
+
+
+### DVDX
+_tbc_
+
+
+<br><br><br>
+
+
+### AOIZ and ROWAN
+AIOZ and ROWAN at 30% and 120% respectively.
