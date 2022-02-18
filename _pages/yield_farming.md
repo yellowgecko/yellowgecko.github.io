@@ -6,10 +6,16 @@ resource: true
 categories: [Strategies]
 order: 3
 ---
-**[Reddit introduction on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)**
+
+
+## Yield Farming
+Yield farming is when you can stake your liquidity provider (LP) token to earn another token. liquidity provider token is what you receive if you provide liquidity to a DEX for example. See **[Reddit introduction on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)**.
+
+<br><br><br>
+
 
 ## Auto Compounding/ Yield optimizers
-A number of Defi platforms offer auto compounding, mostly as part of a strategy. Maybe managed strategies would be a better term. Relevant sites are
+Yield optimizers manage farmed LP tokens, often as part of a dedicated strategy, in effect re investing any farmed tokens/ rewards. A number of Defi platforms offer auto compounding, mostly as part of a strategy. Maybe managed strategies would be a better term. Relevant sites are
 * Beefy
 * yearn.finance [The  vaults ot vf](https://vaults.yearn.finance/) documents the variöus strategies
 * [HappyHippo](https://happyhippo.farm) takes percentage of profit for providing strategies
