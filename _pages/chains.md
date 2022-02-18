@@ -109,12 +109,21 @@ are not as ideal to hold as network tokens).
 
 <br><br><br>
 
+### BSC - Binance Smart Chain
+Is a copy of Ethereum but runs on a very small set of nodes. This allows low transafction costs/gas fees but 
+<br><br><br>
+
 ### Fantom
 _tbc_
 
 <br><br><br>
 
 ### NEAR
+_tbc_
+
+<br><br><br>
+
+### Arbitrum
 _tbc_
 
 <br><br><br>
