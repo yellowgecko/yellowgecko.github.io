@@ -9,7 +9,7 @@ order: 3
 
 
 ## Yield Farming
-Yield farming is when you can stake your liquidity provider (LP) token to earn another token. liquidity provider token is what you receive if you provide liquidity to a DEX for example. See **[Reddit introduction on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)**.
+Yield farming is when you can stake your liquidity provider (LP) token to earn another token. liquidity provider token is what you receive if you provide liquidity to a DEX for example besides a share of trading fees. See **[Reddit introduction on Yield Farming](https://www.reddit.com/r/CryptoCurrency/comments/n0yng2/defi_explained_yield_farming/)**.
 
 <br><br><br>
 
