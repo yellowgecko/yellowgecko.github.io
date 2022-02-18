@@ -40,13 +40,6 @@ repay my loan, and pocket the other 250 USDC.
 
 <br><br>
 
-### staked NEAR to ref finance
-*    stake NEAR in Nearwallet directly
-*    take liquidity to REF finance fro single sided staking
-(is this either both?)
-
-<br><br>
-
 ### Stablecoin leverage on Fantom
 *   on revenent.finance borrow cUSD against yuUSD
 *   (and where do  i get yuUSD in the first place?)
