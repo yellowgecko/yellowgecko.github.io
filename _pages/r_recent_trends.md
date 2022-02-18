@@ -92,7 +92,8 @@ stake CAKE in autopool
 
 <br><br>
 
-### AAVE borrow stablecion for crypto
+### Avoid liquidity pools and use money markets
+Use money markets like Aave and Compound. The money market in Algorand is Algofi and Harmony has TranquilFi, both support native assets and, more importantly, BTC and ETH.
 
 <br><br>
 
@@ -107,6 +108,7 @@ anchor protocol on NEAR. onion money supposed to be alternative front end
 <br><br>
 
 ### OSMOSIS.ZONE examples
+staking ATOM, receive OSMO and JUNO on Osmosis (Atom DEX)
 Here's the yields for pool #601 on osmosis for example:
 >🧪 osmosis pool 601 50% CMDX / 50% OSMO
 > liquidity: 3,815,257.87 CMDX 963,665.79 OSMO
@@ -114,3 +116,32 @@ Here's the yields for pool #601 on osmosis for example:
 > rewards: total osmo/day: 8,051.82 APR: 152.71 % APY: 359.01 %
 > additional rewards: CMDX APR: 79.61 % APY: 121.49 %
 > swap fee: 0.30 % swap fees 24h: 1,067.80 USD fee APY: 2.52 %
+LUNA/OSMO and LUNA UST pools 
+Look at the pools on Osmo. Do some research if you need to. Luna/Osmo APR at 92.99% currently, Luna/UST at 70.85%
+
+<br><br>
+
+###  ren Dark node
+boot up a Darknode on Ren
+
+### SPOOL
+_What is this?_
+
+### Terraswap
+LUNA-bLUNA stake farming on Terraswap
+
+<br><br>
+
+### Harmony chain based
+Stake DAO is also incentivized by Harmony and is ~30% staking Curve LP
+
+FarmersOnly has Tranquil Finance vaults that auto compound and earn 20-40% depending on the crypto (single sided).
+
+Hundred Finance has 20-35% stablecoin staking
+
+
+<br><br>
+
+Fantom, Harmony, and (recently) Aurora. And mostly using med risks strategies with LPs in AstroPort (Terra), Defi Kingdoms (Harmony) and high risk with LPs in Trisolaris (Aurora) and Wonderland (Avalanche).
+
+polygon.balancer.fi 
