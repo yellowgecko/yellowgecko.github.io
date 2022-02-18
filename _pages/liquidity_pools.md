@@ -17,6 +17,8 @@ Impermanent loss (IP), explained here:
 : [Impermanent Loss explained](https://finematics.com/impermanent-loss-explained/)
 : [Impermanent Loss](https://3commas.io/academy/articles/impermanent-loss-explained)
 : [Impermanent Loss simple explanation](https://3commas.io/academy/articles/impermanent-loss-explained)
+: [IL Guide](https://rugdoc.io/education/impermanent-loss/)
+: [another guide](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
 
 
 By providing liquidity to a pool one can gain a share of the fees earned. This is often paid out in their own currency/own LP coins. The value of which may vary or even rapidly decrease. Often it is a manual task to collect and manage these rewards, and the frequency thereof often limited by transaction fees.
@@ -24,6 +26,7 @@ By providing liquidity to a pool one can gain a share of the fees earned. This i
 <br><br>
 
 ###  Strategies
+[5 ways to manage IL](https://www.reddit.com/r/CryptoCurrency/comments/ssaze5/5_most_effective_ways_to_manage_or_avoid/)
 1. **high correlation pair**\\
 It seems to be understood that pairs with high correlation (i.e. stablecoin - stablecoin) show lower risk of IP associated with a lower return in turn.\\
 Stable coin LPs tend to pay a higher APY in the form of the defi protocol's own token. Some of them become absolutely worthless very quickly. The volatility of that token is a risk you're taking. You could mitigate that by using an autocompounder but the point is that the nature of the risk is different from lending. Impermanent loss shouldn't even be a worry.
