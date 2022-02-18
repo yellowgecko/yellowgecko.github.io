@@ -103,3 +103,14 @@ _(Note: understand synthetics first)_
 
 ### Anchor/NEAR 20% USDT
 anchor protocol on NEAR. onion money supposed to be alternative front end
+
+<br><br>
+
+### OSMOSIS.ZONE examples
+Here's the yields for pool #601 on osmosis for example:
+>🧪 osmosis pool 601 50% CMDX / 50% OSMO
+> liquidity: 3,815,257.87 CMDX 963,665.79 OSMO
+> total liq.: 15,665,518.15 USD 24h vol.: 355,934.25 USD
+> rewards: total osmo/day: 8,051.82 APR: 152.71 % APY: 359.01 %
+> additional rewards: CMDX APR: 79.61 % APY: 121.49 %
+> swap fee: 0.30 % swap fees 24h: 1,067.80 USD fee APY: 2.52 %
