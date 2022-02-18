@@ -129,3 +129,11 @@ _tbc_
 <br><br><br>
 
 ### Cardano (AVA)
+_tbc_
+
+<br><br><br>
+
+### Cosmos/ LUNA
+_tbc_
+
+
