@@ -10,6 +10,8 @@ An unsorted list of links to tools, directories etc.
 
 * [DappRadar](https://dappradar.com/): per chain, covers Defi, NFTs, games, etc
 
+* [DefiLama](https://defillama.com/) tracks over 800 DeFi protocols from over 80 different blockchains.
+
 * Yield farming Info: [vfat tools](https://vfat.tools/)  a list of yield platforms across chains
 
 * Bitcoin MVRV Ratio: [Woobull MVR chart](https://charts.woobull.com/bitcoin-mvrv-ratio/) supposedly the ONLY chart ever to be used for bitcoin
