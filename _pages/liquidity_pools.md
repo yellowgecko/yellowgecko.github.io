@@ -40,5 +40,5 @@ Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
   [How to avoid IL](https://newsletter.banklesshq.com/p/how-to-avoid-impermanent-loss)\\
   
 4. **Single Token Pools**\\
-    Single token staking i.e. syrup pools on pancakeswap or bancor.fi
+    Single token staking i.e. [syrup pools](https://pancakeswap.finance/pools) on pancakeswap or [bancor](https://app.bancor.network/pools)
     
