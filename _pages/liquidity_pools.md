@@ -39,5 +39,6 @@ Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
 3. **Reduce IL risk with uneven LPs**\\
   [How to avoid IL](https://newsletter.banklesshq.com/p/how-to-avoid-impermanent-loss)\\
   
-4. **Syrup Pools**\\
-    supposed to allow single token pools
+4. **Single Token Pools**\\
+    Single token staking i.e. syrup pools on pancakeswap
+    
