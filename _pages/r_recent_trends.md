@@ -212,3 +212,20 @@ And Harmony has Viperswap & DeFi Kingdoms with decent TVL & sustainable farming 
 
 ### ATOM/JUNO
  stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex 
+
+
+<br><br><br>
+
+
+### AVAX
+Avax has Trader Joe, use KEPLR wallet.
+
+pool JOE-AVAX to experiment
+
+
+<br><br><br>
+
+
+### NEAR, REF, OIN
+or Ref finance for NEAR, pooling OIN-STNEAR
+
