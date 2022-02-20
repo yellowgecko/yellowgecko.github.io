@@ -159,3 +159,56 @@ _tbc_
 
 ### AOIZ and ROWAN
 AIOZ and ROWAN at 30% and 120% respectively.
+
+
+<br><br><br>
+
+
+### Mad Merket Finance on Cronos chain
+MMF will also be launching their tomb fork in the next 2 weeks. ... But supposadly a scam/rug pull as per [Decrypt](https://decrypt.co/60242/binance-chain-defi-meerkat-finance-hack-rug-pull). But these are 2 different projects on different chains.
+
+MMF-CRO vault - 2235% APY (309.29% APR, autocompounded every 30 mins)
+
+MMO-CRO vault - 3145% APY (339.10% APR, autocompounded every 30 mins)
+
+MMO single vault - 992% APY (239% APR, manually compounded daily)
+
+
+<br><br><br>
+
+
+### stablecoin pool on Harmony 
+Viperswap)- ONEUSD-1USDC at 116% APR
+
+Oin Finance- minted nUSDO [NEAR-backed stablecoin] using stNEAR as collateral, staking in the stability pool for 40% APY
+
+
+<br><br><br>
+
+
+### Sifchain/ROWAN
+Sifchain- ATOM/ROWAN LP at 1748% APY- rewards are auto-claimed every week.
+
+ROWAN/USDC pool, it's one of the 6 pools that are also 1748% APY.
+
+staking ROWAN on keplr 120%
+
+
+<br><br><br>
+
+
+### just 3 ecosystems
+Cosmos, Near & Harmony
+
+On Cosmos; there's Sifchain & Osmosis- Good UX & very easy to use
+
+Near- Oin Finance, Ref Finance are good stablecoins minting platform & AMMs respectively
+
+And Harmony has Viperswap & DeFi Kingdoms with decent TVL & sustainable farming APRs
+
+
+<br><br><br>
+
+
+### ATOM/JUNO
+ stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex 
