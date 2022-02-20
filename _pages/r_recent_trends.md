@@ -228,4 +228,18 @@ pool JOE-AVAX to experiment
 
 ### NEAR, REF, OIN
 or Ref finance for NEAR, pooling OIN-STNEAR
+comments on REV/NEAR:     
+> First I believe in NEAR as a Layer 1 and I prefer to diversify across a single ecosystem than multiple.
+
+Stop "believing in" coins. Everything about a coin can be great, and something unforseeable can come along and cause the coin to fail. This is why even the best analysts often make incorrect predictions, and I doubt you're one of the best analysts. If NEAR fails, your entire plan is gonna fail. The best analysts know they're fallible and diversify, and so should you.
+
+>    Ref will grow linearly with NEAR and automatically diversity across and entire L1.
+
+REF will not grow linearly with NEAR. Look at these tokenomics. You're looking at 50% dilution over the next 4 years. And if NEAR grows, other DEXs will launch on NEAR, which will split the subeconomy.
+
+And REF won't diversify across the entire L1. The REF coin staking is a bet on trading volume, not on price, and it's quite possible for coins in the ecosystem to go up in price without a lot of trading volume. If anything, a downward market causes more trading volume than an upward market: look at the graph on the right side of this page and you'll see more volume the last few days due to panic trading than in any previous weeks.
+
+Make no mistake, you're not diversified. You're in two coins (NEAR and REF) staked in two pools that depend on transaction and trading volume on one chain.
+
+I am not sure I'd even invest in this strategy at all, let alone put my entire crypto bags in it. It's not an insane strategy as part of a diversified portfolio, but I don't like those REF tokenomics. And it IS an insane strategy if you're closing your savings account and putting it all in this.
 
