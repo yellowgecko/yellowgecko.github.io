@@ -132,7 +132,10 @@ The breakeven point after 1 year is obviously if the price of mSLV is 19,5% high
 
 ## NEAR chain
 #### REF, OIN
-or Ref finance for NEAR, pooling OIN-STNEAR
+See [NEAR farming guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
+
+Checkout Ref finance for NEAR, pooling OIN-STNEAR
+
 comments on REV/NEAR:     
 > First I believe in NEAR as a Layer 1 and I prefer to diversify across a single ecosystem than multiple.
 
