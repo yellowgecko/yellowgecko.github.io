@@ -3,9 +3,14 @@ title: "Trending Recipies- DRAFT"
 layout: default
 toc: true
 resource: true 
-categories: [Recipes] 
-order: 2
+categories: [Other] 
+order: 5
 ---
+## Bits and pieces
+unsorted 'recipies' ... picked up on the way
+
+<br><br><br><br>
+
 ### Borrow against collateral
 The most common reasons usually center around depositing collateral in one coin, and borrowing in another coin. 
 The two most common ways this can be profitable are [Reddit source](https://www.reddit.com/r/defi/comments/sq9t8i/unless_apy_is_positive_what_is_the_point_of/):
