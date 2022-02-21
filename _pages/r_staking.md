@@ -10,27 +10,7 @@ order: 1
 
 ## Staking
 
-### CHIHUAHUA
-It’s a MEME, you gotta have it
-Yield Farm $CHIHUAHUA On Osmosis DEX for 400% APR
-*    Install Keplr wallet
-*   Buy/send ATOM from Coinbase to Keplr wallet
-*   Leave some extra ATOM to cover gas fees
-*   Connect HUAHUA Chain to Keplr wallet on Omniflix
-*   Connect Keplr wallet to Osmosis website
-*   Load ATOM under ‘Assets’ tab
-*   Swap ATOM for HUAHUA under ‘Trade’ tab
-*   Withdraw HUAHUA from ‘Assets’ tab
-*   Navigate to Omniflix ‘stake’ page
-*   Choose a Validator to stake with
-    1. Do not choose a centralized exchange or Top 10
-    2. Do not choose 100% commission validator
-    3. Research who the validator is
-*   Decide what to do with your rewards
-*   Restake them daily
-*   Convert to another coin
 
-Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&ab_channel=investwithjo)
 
 <br><br>
 
