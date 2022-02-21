@@ -18,8 +18,10 @@ Stake ATOM in KEPL wallet. use a validator between 100 and 145. Withdraw CRO, SC
 2. exchange for ATOM
 3. withdraw ATOM to keplr wallet
 
-1. _tbc_
+1. _tbc_ maybe RenBridge again? [IBC InterBlockchain](https://blog.cosmos.network/bitcoin-is-coming-to-cosmos-with-interbtc-16b1fc854728)
 
+#### OSMOSIS
+is a cross chain AMM build on COSMOS/ATOM. Uses Keplr wallet. Osmosis has IBC (Inter - Blockchain Communication) built-in from the start, allowing it to connect to the entire Cosmos chain ecosystem
 
 ##### OSMOSIS.ZONE examples
 Here's the yields for pool #601 on osmosis for example:
@@ -38,7 +40,7 @@ stake Atom and Juno, follow new projects and get drops. We provide liquidity on 
 
 <br><br>
 
-##### Sifchain/ ROWAN
+
 
 <br><br>
 
@@ -66,13 +68,9 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 
 
 <br><br><br><br>
-----
-<br><br><br><br>
 
 
-
-
-### Avalanche, AVAX
+## Avalanche, AVAX
 Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
 
 Avax uses KEPLR wallet or Metamask. Avax can be staked. Or Avalanche wallet.
@@ -96,24 +94,44 @@ Or BENQI
 2. receive on various chains, only caters for MetaMask
 
 <br><br><br><br>
-----
-____
 
 
-### Terraswap
+
+## Terra
+Terra has Anchor, currently offering 20% APY for UST. See löping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
 LUNA-bLUNA stake farming on Terraswap
 
-<br><br>
+#### Loop UST on Terra with silver
+On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
+1. Deposit $10K UST in Anchor (you get aUST)
+2. Borrow mSLV with your aUST
+3. Sell mSLV at Terraswap for UST
+4. Repeat 4x and deposit to Anchor
+5. You now have $20K UST earning 19,5% APY instead of $10K
+6. Buy mSLV on dips to hedge
+
+This strategy works when:
+*   The price of mSLV stays flat or goes down
+*   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year   
+The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
 
 
+**comments on UST on Anchor:**
 
-Fantom, Harmony, and (recently) Aurora. And mostly using med risks strategies with LPs in AstroPort (Terra), Defi Kingdoms (Harmony) and high risk with LPs in Trisolaris (Aurora) and Wonderland (Avalanche).
+> There are lots of reasons to pick one project over another. With regards to Anchor - firstly it's not that easy to get money on Terra. 
+> None of the major exchanges support it and you lose a lot of money in bridges. Secondly you may assess the risk of being 
+> hacked or rugged to be much higher on Anchor. Thirdly maybe you've never heard of Anchor Protocol since it's nowhere near 
+> as famous as AAVE. Fourthly maybe you're stuck on one chain or another for other reasons. A lot of other protocols put 
+> their funds on AAVE and they may not have the technical ability to flip their funds across different chains.
 
-polygon.balancer.fi 
+[More LUNA stats](https://coinsutra.com/terra-network-luna-token-analysis/)
+<br><br><br><br>
+
 
 <br><br><br><br>
 
-### NEAR, REF, OIN
+## NEAR chain
+#### REF, OIN
 or Ref finance for NEAR, pooling OIN-STNEAR
 comments on REV/NEAR:     
 > First I believe in NEAR as a Layer 1 and I prefer to diversify across a single ecosystem than multiple.
@@ -130,47 +148,3 @@ Make no mistake, you're not diversified. You're in two coins (NEAR and REF) stak
 
 I am not sure I'd even invest in this strategy at all, let alone put my entire crypto bags in it. It's not an insane strategy as part of a diversified portfolio, but I don't like those REF tokenomics. And it IS an insane strategy if you're closing your savings account and putting it all in this.
 
-
-### Borrow against collateral
-
-
-
-<br><br>
-
-
-
-<br><br>
-
-### Loop UST on Terra with silver
-On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
-1. Deposit $10K UST in Anchor (you get aUST)
-2. Borrow mSLV with your aUST
-3. Sell mSLV at Terraswap for UST
-4. Repeat 4x and deposit to Anchor
-5. You now have $20K UST earning 19,5% APY instead of $10K
-6. Buy mSLV on dips to hedge
-
-This strategy works when:
-*   The price of mSLV stays flat or goes down
-*   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year   
-The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
-
-**comments on UST on Anchor:**
-
-> There are lots of reasons to pick one project over another. With regards to Anchor - firstly it's not that easy to get money on Terra. 
-> None of the major exchanges support it and you lose a lot of money in bridges. Secondly you may assess the risk of being 
-> hacked or rugged to be much higher on Anchor. Thirdly maybe you've never heard of Anchor Protocol since it's nowhere near 
-> as famous as AAVE. Fourthly maybe you're stuck on one chain or another for other reasons. A lot of other protocols put 
-> their funds on AAVE and they may not have the technical ability to flip their funds across different chains.
-
-[More LUNA stats](https://coinsutra.com/terra-network-luna-token-analysis/)
-
-<br><br>
-
-## Anchor/NEAR 
-anchor protocol on NEAR for 20% APY on USDT. 
-
-onion money supposed to be alternative front end
-
-stake UST on Anchor while I 
-<br><br>
