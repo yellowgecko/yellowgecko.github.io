@@ -36,3 +36,5 @@ Wrap ETH using cbridge
 swap using [**multichain.org**](https://multichain.org/)
 
 
+#### DEX wrapping
+Since WBTC is an ERC20 token, you can trade it on decentralized exchanges such as Kyber or Uniswap. If you want to swap BTC for WBTC, you can go through one of the WBTC merchants: Dharma, Kyber, Set Protocol, GOPAX, AirSwap, Prycto, Ren, and ETHfinex.
