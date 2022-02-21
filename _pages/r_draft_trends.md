@@ -159,6 +159,8 @@ _tbc_
 
 ### AOIZ and ROWAN
 AIOZ and ROWAN at 30% and 120% respectively.
+##### Sifchain/ ROWAN
+Omni-Chain DEX. Rowan is both Sifchain’s decentralized governance token and settlement token. 
 
 
 <br><br><br>
