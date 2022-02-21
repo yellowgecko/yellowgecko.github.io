@@ -27,6 +27,7 @@ There are various routes to wrap BTC: [Wrapping BTC](https://coinmarketcap.com/a
 * On Fantom swap FTM to BTC via Spookyswap or Spiritswap
 * OR withdraw to BSC metamask wallet. This will wrap BTC/ETH to the equivalent BRC20 token. Then swap as required.
 
+Alternativley use [Coinlist](https://coinlist.co/asset/wbtc) to directly wrap BTC. Fee is 0.25%. Requires an account.
 <br><br>
 
 
