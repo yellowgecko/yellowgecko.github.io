@@ -35,6 +35,15 @@ Stable coin LPs tend to pay a higher APY in the form of the defi protocol's own 
 Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
     1. when stable increases … borrow against LP token, borrow non-stable side, then swap for more stable. Use this to pay of stable loan
     2. other way around when coin increases  \\
+    
+-symmetrically enter if you are bullish on both assets long-term, choose a deep pool to reduce slippage fee
+
+-do not assymetrically enter with the asset that you believe will outperform 
+
+-assymetrically enter with the asset that you believe is going to underperform
+
+-do not enter pools with speculative / volatile altcoins
+
 
 3. **Reduce IL risk with uneven LPs**\\
   [How to avoid IL](https://newsletter.banklesshq.com/p/how-to-avoid-impermanent-loss).
