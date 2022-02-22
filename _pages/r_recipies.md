@@ -7,6 +7,15 @@ categories: [Recipes]
 order: 3
 ---
 
+## BSC - Binance Smart Chain (BNB)
+[Defistation](https://www.defistation.io/) for BSC based DeFi platforms.
+Use metamask set to BSC,  transfer BNB from Binance.
+use pancakeswap for cake and autocake.
+Try WBNB-EGLD on autofarm
+
+<br><br><br><br>
+
+
 ## COSMOS chain
 ##### Stake ATOM
 Stake ATOM in KEPL wallet. use a validator between 100 and 145. Withdraw CRO, SCRT, LUNA, UST to kelpr and change on OSMOSIS. **Note: neeed some ATOM for transaction fees**. staking ATOM, receive OSMO and JUNO on Osmosis (Atom DEX)
