@@ -69,7 +69,6 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 
 <br><br><br><br>
 
-
 ## Avalanche, AVAX
 Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
 
@@ -95,6 +94,13 @@ Or BENQI
 
 <br><br><br><br>
 
+## Fantom (FTM)
+Fantom has beefy, yearn, curve, kyber
+go to curve via yearn.
+consider zapper.fi
+
+
+<br><br><br><br>
 
 
 ## Terra
