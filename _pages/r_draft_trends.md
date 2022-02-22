@@ -49,40 +49,18 @@ repay my loan, and pocket the other 250 USDC.
 
 <br><br>
 
-### Stablecoin leverage on Fantom
-*   on revenent.finance borrow cUSD against yuUSD
-*   (and where do  i get yuUSD in the first place?)
-*   drop into incentive pool on curve
-stake … for credit (???)
+### Using Futures to hedge in bear market
+Imagine we have 3 BTC and 30 Eth. If we pair them and get a good yield great. Even better when markets are bullish, because both BTC and ETH are going up in value.
 
-<br><br>
+What about bad markets? This is when a hedge fund shines.
 
-### Loop UST on Terra with silver
-On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
-1. Deposit $10K UST in Anchor (you get aUST)
-2. Borrow mSLV with your aUST
-3. Sell mSLV at Terraswap for UST
-4. Repeat 4x and deposit to Anchor
-5. You now have $20K UST earning 19,5% APY instead of $10K
-6. Buy mSLV on dips to hedge
+Instead we take 2 BTC and 20ETH and pair them . The remaining 1 btc and 10 eth we place in a perpetual short future at 1.2 x leverage. 1x leverage is delta neutral we lose on the short but gain on the underlying so up or down we make nothing. 1.2x though we lose a bit of out stack in bull markets, but in bear markets we cover %10 of losses on the 2 BTC and 20 ETH with our shorts on the 1 btc and 10 eth.
 
-This strategy works when:
-*   The price of mSLV stays flat or goes down
-*   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year   
-The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
-
-**comments on UST on Anchor:**
-
-There are lots of reasons to pick one project over another. With regards to Anchor - firstly it's not that easy to get money on Terra. 
-None of the major exchanges support it and you lose a lot of money in bridges. Secondly you may assess the risk of being 
-hacked or rugged to be much higher on Anchor. Thirdly maybe you've never heard of Anchor Protocol since it's nowhere near 
-as famous as AAVE. Fourthly maybe you're stuck on one chain or another for other reasons. A lot of other protocols put 
-their funds on AAVE and they may not have the technical ability to flip their funds across different chains.
-
-[More LUNA stats](https://coinsutra.com/terra-network-luna-token-analysis/)
+You still lose money, but you lose less. If the market is down %30 and you are down %6 you can look at that as a loss. I would say: you haven't lost %6 cause if markets are down %30 you are actually much richer than the rest of the market and your friends.
 
 
-<br><br>
+
+<br><br><br><br>
 
 ### CAKE/LEON/LEOS
 _(Note: this is far from clear, need to find original comment)_
@@ -99,28 +77,12 @@ Use money markets like Aave and Compound. The money market in Algorand is Algofi
 
 <br><br>
 
-### sUSD on AAVE for 45% APY
-_(Note: understand synthetics first)_
-
-<br><br>
-
-### Anchor/NEAR 20% USDT
-anchor protocol on NEAR. onion money supposed to be alternative front end
-
-Anchor and Osmosis Dex are my best passive income strategies. I stake UST on Anchor while I provide liquidity on NGM, STARS, CMDX, EEUR pools on Osmosis Dex.
-
-
-
-<br><br>
 
 ###  ren Dark node
 boot up a Darknode on Ren
 
-### SPOOL
+### SPELL
 _What is this?_
-
-### Terraswap
-LUNA-bLUNA stake farming on Terraswap
 
 <br><br>
 
@@ -140,13 +102,6 @@ polygon.balancer.fi
 
 <br><br><br>
 
-### HappyHippo on BSC
-happyhippo, it has lower fees than beefy although it is only available for BSC, but BNB-CAKE is pretty much everything BSC is anyway
-
-BNB CAKE pairs in HappyHippo.farm. Use trust wallet / hardware wallet. get your BNB, zap to BNB-CAKE LP for 50% LP income haha
-
-
-
 ### DVDX
 _tbc_
 
@@ -154,7 +109,16 @@ _tbc_
 <br><br><br>
 
 
-### AOIZ and ROWAN
+
+### Sifchain/ROWAN
+Sifchain- ATOM/ROWAN LP at 1748% APY- rewards are auto-claimed every week.
+
+ROWAN/USDC pool, it's one of the 6 pools that are also 1748% APY.
+
+staking ROWAN on keplr 120%
+
+
+<br><br><br>
 AIOZ and ROWAN at 30% and 120% respectively.
 ##### Sifchain/ ROWAN
 Omni-Chain DEX. Rowan is both Sifchain’s decentralized governance token and settlement token. 
@@ -185,15 +149,7 @@ Oin Finance- minted nUSDO [NEAR-backed stablecoin] using stNEAR as collateral, s
 <br><br><br>
 
 
-### Sifchain/ROWAN
-Sifchain- ATOM/ROWAN LP at 1748% APY- rewards are auto-claimed every week.
 
-ROWAN/USDC pool, it's one of the 6 pools that are also 1748% APY.
-
-staking ROWAN on keplr 120%
-
-
-<br><br><br>
 
 
 ### just 3 ecosystems
