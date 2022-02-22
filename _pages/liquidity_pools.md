@@ -56,7 +56,7 @@ Deposit to coins into a pool. Usually stable + ETH/MATIC/AVAX/BTC
   others are: **Balancer** and **Bancor**
   
 4. **Single Token Pools**\\
-    Single token staking i.e. [syrup pools](https://pancakeswap.finance/pools) on pancakeswap or [bancor](https://app.bancor.network/pools)
+    Single token staking i.e. [syrup pools](https://pancakeswap.finance/pools) on pancakeswap or [bancor](https://app.bancor.network/pools) / [Bancor introduction](https://finematics.com/bancor-v2-explained/)
     
 5. Provide liquidity when asset value is low.
 
