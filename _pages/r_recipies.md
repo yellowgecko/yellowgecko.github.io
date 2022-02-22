@@ -135,6 +135,7 @@ This strategy works when:
 *   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year   
 The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
 
+From Route2FI newsletter [Loop UST on Edge protocol](New stablecoin strategy for $UST - Edge Protocol)
 
 **comments on UST on Anchor:**
 
