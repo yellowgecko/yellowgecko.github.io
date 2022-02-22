@@ -35,8 +35,9 @@ repay my loan, and pocket the other 250 USDC.
 [Uniswap howto](https://newsletter.banklesshq.com/p/how-to-make-money-with-uniswap-v3)
 
 <br><br>
-### Mstable
+### Stablecoin yields
 [mstable](https://mstable.org/) as a high interest vault forvarious stable coins. On Ethereum or Polygon.
+[Alchemix](https://alchemix.fi/) to deposit and borrow against DAI. [Alchemix Video](https://youtu.be/pVO-dzTuM20) May only be available on ETH.
 
 <br><br>
 
