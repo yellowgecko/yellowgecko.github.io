@@ -34,6 +34,9 @@ repay my loan, and pocket the other 250 USDC.
 ### Uniswap guide
 [Uniswap howto](https://newsletter.banklesshq.com/p/how-to-make-money-with-uniswap-v3)
 
+<br><br>
+### Mstable
+[mstable](https://mstable.org/) as a high interest vault forvarious stable coins. On Ethereum or Polygon.
 
 <br><br>
 
