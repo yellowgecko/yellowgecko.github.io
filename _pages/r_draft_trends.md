@@ -108,20 +108,8 @@ _(Note: understand synthetics first)_
 anchor protocol on NEAR. onion money supposed to be alternative front end
 
 Anchor and Osmosis Dex are my best passive income strategies. I stake UST on Anchor while I provide liquidity on NGM, STARS, CMDX, EEUR pools on Osmosis Dex.
-<br><br>
 
-### OSMOSIS.ZONE examples
-staking ATOM, receive OSMO and JUNO on Osmosis (Atom DEX)
-reference to KEPL wallet
-Here's the yields for pool #601 on osmosis for example:
->🧪 osmosis pool 601 50% CMDX / 50% OSMO
-> liquidity: 3,815,257.87 CMDX 963,665.79 OSMO
-> total liq.: 15,665,518.15 USD 24h vol.: 355,934.25 USD
-> rewards: total osmo/day: 8,051.82 APR: 152.71 % APY: 359.01 %
-> additional rewards: CMDX APR: 79.61 % APY: 121.49 %
-> swap fee: 0.30 % swap fees 24h: 1,067.80 USD fee APY: 2.52 %
-LUNA/OSMO and LUNA UST pools 
-Look at the pools on Osmo. Do some research if you need to. Luna/Osmo APR at 92.99% currently, Luna/UST at 70.85%
+
 
 <br><br>
 
@@ -224,33 +212,4 @@ And Harmony has Viperswap & DeFi Kingdoms with decent TVL & sustainable farming 
 ### ATOM/JUNO
  stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex 
 
-
-<br><br><br>
-
-
-### AVAX
-Avax has Trader Joe, use KEPLR wallet.
-
-pool JOE-AVAX to experiment
-
-
-<br><br><br>
-
-
-### NEAR, REF, OIN
-or Ref finance for NEAR, pooling OIN-STNEAR
-comments on REV/NEAR:     
-> First I believe in NEAR as a Layer 1 and I prefer to diversify across a single ecosystem than multiple.
-
-Stop "believing in" coins. Everything about a coin can be great, and something unforseeable can come along and cause the coin to fail. This is why even the best analysts often make incorrect predictions, and I doubt you're one of the best analysts. If NEAR fails, your entire plan is gonna fail. The best analysts know they're fallible and diversify, and so should you.
-
->    Ref will grow linearly with NEAR and automatically diversity across and entire L1.
-
-REF will not grow linearly with NEAR. Look at these tokenomics. You're looking at 50% dilution over the next 4 years. And if NEAR grows, other DEXs will launch on NEAR, which will split the subeconomy.
-
-And REF won't diversify across the entire L1. The REF coin staking is a bet on trading volume, not on price, and it's quite possible for coins in the ecosystem to go up in price without a lot of trading volume. If anything, a downward market causes more trading volume than an upward market: look at the graph on the right side of this page and you'll see more volume the last few days due to panic trading than in any previous weeks.
-
-Make no mistake, you're not diversified. You're in two coins (NEAR and REF) staked in two pools that depend on transaction and trading volume on one chain.
-
-I am not sure I'd even invest in this strategy at all, let alone put my entire crypto bags in it. It's not an insane strategy as part of a diversified portfolio, but I don't like those REF tokenomics. And it IS an insane strategy if you're closing your savings account and putting it all in this.
 
