@@ -12,6 +12,8 @@ order: 1
 ### What are Liquidity Pools?
 Liquidity pools are pools of tokens that are locked in a smart contract. Their role is to provide liquidity of decentralised exchanges. By offering liquidity, they guarantee trading, and because of this, they are widely used by decentralized exchanges. Liquidity pools, in essence, are the trading aspect of a decentralized exchange. As decentralised exchanges deploy Automated Market Makers (AMM) for price finding they introduce the risk of _impermanent loss_. [Reddit Introduction to Liquidity Pools](https://www.reddit.com/r/CryptoCurrency/comments/mfk2oi/defi_explained_liquidity_pools/ "Source on  reddit")
 
+By providing liquidity to a pool one can gain a share of the fees earned. This is often paid out in their own currency/own LP coins. The value of which may vary or even rapidly decrease. Often it is a manual task to collect and manage these rewards, and the frequency thereof often limited by transaction fees.
+
 Impermanent loss (IP), explained here:
 
 : [Impermanent Loss explained](https://finematics.com/impermanent-loss-explained/)
@@ -19,13 +21,17 @@ Impermanent loss (IP), explained here:
 : [Impermanent Loss simple explanation](https://3commas.io/academy/articles/impermanent-loss-explained)
 : [IL Guide](https://rugdoc.io/education/impermanent-loss/)
 : [another guide](https://blog.bancor.network/beginners-guide-to-getting-rekt-by-impermanent-loss-7c9510cb2f22)
+: [Detailed explanaition](https://finematics.com/impermanent-loss-explained/)
 
 
-By providing liquidity to a pool one can gain a share of the fees earned. This is often paid out in their own currency/own LP coins. The value of which may vary or even rapidly decrease. Often it is a manual task to collect and manage these rewards, and the frequency thereof often limited by transaction fees.
+**[IL Calculator](https://decentyields.com/impermanent-loss-calculator)**
+
 
 <br><br>
 
 ###  Strategies
+[How not to get reck'd by IL](https://defiyield-app-guides.medium.com/how-to-avoid-getting-rekt-with-yield-farming-7e558ce08ea1)
+
 [5 ways to manage IL](https://www.reddit.com/r/CryptoCurrency/comments/ssaze5/5_most_effective_ways_to_manage_or_avoid/)
 1. **high correlation pair**\\
 It seems to be understood that pairs with high correlation (i.e. stablecoin - stablecoin) show lower risk of IP associated with a lower return in turn.\\
