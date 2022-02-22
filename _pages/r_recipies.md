@@ -16,6 +16,37 @@ Stake XMS/Mars
 
 <br><br><br><br>
 
+## Avalanche, AVAX
+Avalanche is eth compatible. higher tx with lower fees. Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
+Avax uses KEPLR wallet or Metamask or Avalanche wallet. Avax can be staked.
+
+_pool JOE-AVAX to experiment_
+
+[Top 5 Bridges](https://avalanche.today/top-5-bridges-on-avalanche/) to Avalanche. 
+
+##### Lending & Borrowing
+[Deposit and Borrow on AAVE ](https://www.youtube.com/watch?v=fif0EI4jPJ0)
+Or BENQI
+<br><br>
+
+##### Transfer to Avalanche
+1. btc > binance
+1. exchange for AVAX
+1. withdraw to kepl wallet
+1. change avax to wrapped btc WBTC.e on Kyber swap
+
+1. Goto [renBridge](https://bridge.renproject.io/mint) to mint WBTC from BTC
+2. receive on various chains, only caters for MetaMask
+
+<br><br><br><br>
+
+
+## Fantom (FTM)
+Fantom has beefy, yearn, curve, kyber
+go to curve via yearn.
+consider zapper.fi
+
+<br><br><br><br>
 
 ## COSMOS chain
 ##### Stake ATOM
@@ -79,39 +110,6 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 
 <br><br><br><br>
 
-## Avalanche, AVAX
-Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
-
-Avax uses KEPLR wallet or Metamask. Avax can be staked. Or Avalanche wallet.
-
-_pool JOE-AVAX to experiment_
-
-[Top 5 Bridges](https://avalanche.today/top-5-bridges-on-avalanche/) to Avalanche. 
-
-##### Lending & Borrowing
-[Deposit and Borrow on AAVE ](https://www.youtube.com/watch?v=fif0EI4jPJ0)
-Or BENQI
-<br><br>
-
-##### Transfer to Avalanche
-1. btc > binance
-1. exchange for AVAX
-1. withdraw to kepl wallet
-1. change avax to wrapped btc WBTC.e on Kyber swap
-
-1. Goto [renBridge](https://bridge.renproject.io/mint) to mint WBTC from BTC
-2. receive on various chains, only caters for MetaMask
-
-<br><br><br><br>
-
-## Fantom (FTM)
-Fantom has beefy, yearn, curve, kyber
-go to curve via yearn.
-consider zapper.fi
-
-
-<br><br><br><br>
-
 
 ## Terra
 Terra has Anchor, currently offering 20% APY for UST. See löping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
@@ -147,6 +145,7 @@ The breakeven point after 1 year is obviously if the price of mSLV is 19,5% high
 <br><br><br><br>
 
 ## NEAR chain
+This is a pretty small chain in terms of TVL.
 #### REF, OIN
 See [NEAR farming guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
 
