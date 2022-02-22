@@ -7,12 +7,15 @@ categories: [Recipes]
 order: 3
 ---
 
+
 ## BSC - Binance Smart Chain (BNB)
 [Defistation](https://www.defistation.io/) for BSC based DeFi platforms.
-Use metamask set to BSC,  transfer BNB from Binance.
-use pancakeswap for cake and autocake.
-Try WBNB-EGLD on autofarm
-Stake XMS/Mars
+: Use metamask set to BSC,  transfer BNB from Binance.
+: pancakeswap for cake and autocake.
+: Try WBNB-EGLD on autofarm
+: Stake XMS/Mars
+: happyhippo, it has lower fees than beefy although it is only available for BSC, but BNB-CAKE is pretty much everything BSC is anyway. BNB CAKE pairs in HappyHippo.farm. Uget your BNB, zap to BNB-CAKE LP for 50% LP income
+
 
 <br><br><br><br>
 
@@ -20,7 +23,9 @@ Stake XMS/Mars
 Avalanche is eth compatible. higher tx with lower fees. Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
 Avax uses KEPLR wallet or Metamask or Avalanche wallet. Avax can be staked.
 
-_pool JOE-AVAX to experiment_
+##### Stake sUSD on AAVE for 45% APY
+
+##### pool JOE-AVAX to experiment
 
 [Top 5 Bridges](https://avalanche.today/top-5-bridges-on-avalanche/) to Avalanche. 
 
@@ -45,6 +50,11 @@ Or BENQI
 Fantom has beefy, yearn, curve, kyber
 go to curve via yearn.
 consider zapper.fi
+##### Stablecoin leverage on Fantom
+*   on revenent.finance borrow cUSD against yuUSD
+*   (and where do  i get yuUSD in the first place?)
+*   drop into incentive pool on curve
+stake … for credit (???)
 
 <br><br><br><br>
 
@@ -81,10 +91,6 @@ stake Atom and Juno, follow new projects and get drops. We provide liquidity on 
 
 <br><br>
 
-
-
-<br><br>
-
 ##### CHIHUAHUA
 It’s a MEME, you gotta have it
 Yield Farm $CHIHUAHUA On Osmosis DEX for 400% APR
@@ -112,8 +118,8 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 
 
 ## Terra
-Terra has Anchor, currently offering 20% APY for UST. See löping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
-LUNA-bLUNA stake farming on Terraswap
+Terra has Anchor, currently offering 20% APY for UST. See looping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
+LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
 
 #### Loop UST on Terra with silver
 On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
@@ -139,6 +145,8 @@ The breakeven point after 1 year is obviously if the price of mSLV is 19,5% high
 > their funds on AAVE and they may not have the technical ability to flip their funds across different chains.
 
 [More LUNA stats](https://coinsutra.com/terra-network-luna-token-analysis/)
+
+Try LUNA-bLUNA stake farming on Terraswap
 <br><br><br><br>
 
 
