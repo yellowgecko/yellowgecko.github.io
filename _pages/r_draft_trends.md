@@ -29,7 +29,21 @@ I can deposit $1000 worth of ETH into a borrowing platform, borrow $500 worth of
 Now if the price of LTC falls by 50%, I can buy back the same amount of LTC for 250 USDC, 
 repay my loan, and pocket the other 250 USDC.
 
-<br><br>
+<br><br><br><br>
+
+### Using Futures to hedge in bear market
+Imagine we have 3 BTC and 30 Eth. If we pair them and get a good yield great. Even better when markets are bullish, because both BTC and ETH are going up in value.
+
+What about bad markets? This is when a hedge fund shines.
+
+Instead we take 2 BTC and 20ETH and pair them . The remaining 1 btc and 10 eth we place in a perpetual short future at 1.2 x leverage. 1x leverage is delta neutral we lose on the short but gain on the underlying so up or down we make nothing. 1.2x though we lose a bit of out stack in bull markets, but in bear markets we cover %10 of losses on the 2 BTC and 20 ETH with our shorts on the 1 btc and 10 eth.
+
+You still lose money, but you lose less. If the market is down %30 and you are down %6 you can look at that as a loss. I would say: you haven't lost %6 cause if markets are down %30 you are actually much richer than the rest of the market and your friends.
+
+See [Short BNB Futures](https://coin.guru/pages/short-bnb-futures-selling-binance-coin-futures-to-short-bnb-with-leverage) and [Binance Coin Futures](https://coin.guru/pages/binance-coin-futures-explained-what-are-bnb-futures-and-how-they-work).
+
+<br><br><br><br>
+
 
 ### Uniswap guide
 [Uniswap howto](https://newsletter.banklesshq.com/p/how-to-make-money-with-uniswap-v3)
@@ -49,18 +63,6 @@ repay my loan, and pocket the other 250 USDC.
 
 <br><br>
 
-### Using Futures to hedge in bear market
-Imagine we have 3 BTC and 30 Eth. If we pair them and get a good yield great. Even better when markets are bullish, because both BTC and ETH are going up in value.
-
-What about bad markets? This is when a hedge fund shines.
-
-Instead we take 2 BTC and 20ETH and pair them . The remaining 1 btc and 10 eth we place in a perpetual short future at 1.2 x leverage. 1x leverage is delta neutral we lose on the short but gain on the underlying so up or down we make nothing. 1.2x though we lose a bit of out stack in bull markets, but in bear markets we cover %10 of losses on the 2 BTC and 20 ETH with our shorts on the 1 btc and 10 eth.
-
-You still lose money, but you lose less. If the market is down %30 and you are down %6 you can look at that as a loss. I would say: you haven't lost %6 cause if markets are down %30 you are actually much richer than the rest of the market and your friends.
-
-
-
-<br><br><br><br>
 
 ### CAKE/LEON/LEOS
 _(Note: this is far from clear, need to find original comment)_
