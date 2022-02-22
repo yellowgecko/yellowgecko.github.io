@@ -1,5 +1,5 @@
 ---
-title: "Trending Recipies- DRAFT"
+title: "Recipies- DRAFT"
 layout: default
 toc: true
 resource: true 
@@ -40,7 +40,7 @@ Instead we take 2 BTC and 20ETH and pair them . The remaining 1 btc and 10 eth w
 
 You still lose money, but you lose less. If the market is down %30 and you are down %6 you can look at that as a loss. I would say: you haven't lost %6 cause if markets are down %30 you are actually much richer than the rest of the market and your friends.
 
-See [Short BNB Futures](https://coin.guru/pages/short-bnb-futures-selling-binance-coin-futures-to-short-bnb-with-leverage) and [Binance Coin Futures](https://coin.guru/pages/binance-coin-futures-explained-what-are-bnb-futures-and-how-they-work).
+See [Short BNB Futures](https://coin.guru/pages/short-bnb-futures-selling-binance-coin-futures-to-short-bnb-with-leverage) and [Binance Coin Futures](https://coin.guru/pages/binance-coin-futures-explained-what-are-bnb-futures-and-how-they-work). A longer education on forward markets ans strategies at [Zerhoda - Forward Markets](https://zerodha.com/varsity/chapter/background-forwards-market/)
 
 <br><br><br><br>
 
