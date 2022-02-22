@@ -12,6 +12,7 @@ order: 3
 Use metamask set to BSC,  transfer BNB from Binance.
 use pancakeswap for cake and autocake.
 Try WBNB-EGLD on autofarm
+Stake XMS/Mars
 
 <br><br><br><br>
 
