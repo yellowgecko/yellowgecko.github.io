@@ -9,7 +9,7 @@ order: 3
 
 <br><br><br><br>
 
-### Bridging - How to move stuff arounf
+### Bridging - How to move stuff around
 See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap.
 
 <br><br><br><br>
