@@ -6,7 +6,7 @@ resource: true
 categories: [Recipes] 
 order: 5
 ---
-## Bits and pieces
+**Bits and pieces**
 unsorted bits and pieces ... picked up on the way
 
 <br><br><br><br>
