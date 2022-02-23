@@ -7,6 +7,7 @@ categories: [Recipes]
 order: 3
 ---
 
+<br>
 
 ## BSC - Binance Smart Chain (BNB)
 [Defistation](https://www.defistation.io/) for BSC based DeFi platforms.
@@ -161,6 +162,12 @@ Try LUNA-bLUNA stake farming on Terraswap
 
 ## NEAR chain
 This is a pretty small chain in terms of TVL.
+use NEAR wallet. can stake via wallet
+take liquidity to REF finance for single sided staking.
+get to NEAR via binance. alternative routes?
+check metapool.
+[NEAR/Aurora yield farm guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
+
 #### REF, OIN
 See [NEAR farming guide](https://blog.defiyield.app/the-ultimate-yield-farming-guide-for-near-protocol-ce27046d8218)
 
@@ -180,4 +187,19 @@ And REF won't diversify across the entire L1. The REF coin staking is a bet on t
 Make no mistake, you're not diversified. You're in two coins (NEAR and REF) staked in two pools that depend on transaction and trading volume on one chain.
 
 I am not sure I'd even invest in this strategy at all, let alone put my entire crypto bags in it. It's not an insane strategy as part of a diversified portfolio, but I don't like those REF tokenomics. And it IS an insane strategy if you're closing your savings account and putting it all in this.
+
+
+## Polygon MATIC
+MATIC is native token of POLYGON net. Services on polygon are:
+
+* balancer
+* QI DAO, [QI DAO  guides](https://guide.qidao.community/tutorials/polygon)
+* [Umbria Narni Pool](https://bridge.umbria.network/pool/) allöws single asset lending
+* [Optical Finance](http://www.optical.finance/)
+
+
+*   Deposit DAI on AAVE
+*   Deposit amDAI (assume recevied for the initial deposit) ON MAI.FINANCE for camDAI
+*   Deposit camDAI in vault (which one?) [camDAI beginner strategies](https://guide.qidao.community/tutorials/polygon/camdai-beginner-strategy)
+*   take 80% MAI loan and use to LP farm i.e. wETH/MATIC 
 
