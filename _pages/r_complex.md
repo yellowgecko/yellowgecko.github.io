@@ -1,10 +1,10 @@
 ---
-title: "Hedging"
+title: "Hedging and other complex Strategies"
 layout: default
 toc: false
 resource: true 
 categories: [Recipes] 
-order: 5
+order: 3
 ---
 
 Bits and pieces collected about complex and hedging strategies
