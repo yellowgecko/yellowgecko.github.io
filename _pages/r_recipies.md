@@ -20,7 +20,7 @@ order: 3
 - ACH-USDT (150% APY)
 - ERA-BNB (248% APY), ERA of ERA7.io
 - both available at happyhippo'. [HappyHippo guide](https://www.youtube.com/watch?v=o8Yz-_Z5X-E)
-
+- Use Alpaca finance for farming. [4 strategies for Alpaca](https://medium.com/alpaca-finance/profiting-with-alpaca-strategy-4-multiply-crypto-gains-in-a-bull-market-595d1f20658a)
 
 
 <br><br><br><br>
