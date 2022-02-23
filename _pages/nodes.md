@@ -3,7 +3,7 @@ title: "Nodes"
 layout: default
 toc: false
 resource: true 
-categories: [Strategies] 
+categories: [DeFi] 
 order: 9
 ---
 **Nodes** are the current ponzi scheme.
