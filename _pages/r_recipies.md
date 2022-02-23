@@ -93,7 +93,7 @@ Look at the pools on Osmo. Do some research if you need to. Luna/Osmo APR at 92.
 
 provide liquidity on NGM, STARS, CMDX, EEUR pools on Osmosis Dex.
 
-stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex
+stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex. The usual [dodgy YTuber beginner video](https://www.youtube.com/watch?v=Q26wLr145nE)
 
 <br><br>
 
