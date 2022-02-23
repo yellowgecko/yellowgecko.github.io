@@ -3,7 +3,7 @@ title: "Lending and Borrowing"
 layout: default
 toc: false
 resource: true 
-categories: [Strategies]
+categories: [DeFi]
 order: 2
 ---
 
