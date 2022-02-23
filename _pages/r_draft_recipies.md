@@ -71,6 +71,10 @@ You must be aware of the risks when doing this:
 [Alchemix](https://alchemix.fi/) to deposit and borrow against DAI. [Alchemix Video](https://youtu.be/pVO-dzTuM20) May only be available on ETH.
 
 <br><br>
+### Metis chain
+super chenanigans as per [YT Metis APR](https://www.youtube.com/watch?v=V8j8xmp_YCM) and [YT2 Metis APR](https://www.youtube.com/watch?v=nfJC-sn3q30)
+
+<br><br><br><br>
 
 ### Convex
 *   lock CVX … from votium.app get ‘bribes’
