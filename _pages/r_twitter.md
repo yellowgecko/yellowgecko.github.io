@@ -3,7 +3,7 @@ title: "Twitter accounts to follow"
 layout: default
 toc: false
 resource: true 
-categories: [Recipes] 
+categories: [Other] 
 order: 3
 ---
 <br><br>
