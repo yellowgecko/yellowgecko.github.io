@@ -3,7 +3,7 @@ title: "Yield Farming"
 layout: default
 toc: false
 resource: true
-categories: [Strategies]
+categories: [DeFi]
 order: 3
 ---
 
