@@ -14,7 +14,13 @@ order: 3
 : pancakeswap for cake and autocake.
 : Try WBNB-EGLD on autofarm
 : Stake XMS/Mars
-: happyhippo, it has lower fees than beefy although it is only available for BSC, but BNB-CAKE is pretty much everything BSC is anyway. BNB CAKE pairs in HappyHippo.farm. Uget your BNB, zap to BNB-CAKE LP for 50% LP income
+: happyhippo, it has lower fees than beefy although it is only available for BSC, but BNB-CAKE is pretty much everything BSC is anyway. BNB CAKE pairs in HappyHippo.farm. 
+
+- Get BNB, zap to BNB-CAKE LP for 50% LP income
+- ACH-USDT (150% APY)
+- ERA-BNB (248% APY), ERA of ERA7.io
+- both available at happyhippo'. [HappyHippo guide](https://www.youtube.com/watch?v=o8Yz-_Z5X-E)
+
 
 
 <br><br><br><br>
