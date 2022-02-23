@@ -8,7 +8,7 @@ toc:
   h_max: 6
   
 # these categories are for page/file lists in the navigatin.html
-category-list: [Strategies, Recipes, Other]
+category-list: [DeFi, Recipes, Other]
 
 collections:
   pages:
