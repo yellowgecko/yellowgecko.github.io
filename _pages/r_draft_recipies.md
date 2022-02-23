@@ -116,6 +116,7 @@ FarmersOnly has Tranquil Finance vaults that auto compound and earn 20-40% depen
 
 Hundred Finance has 20-35% stablecoin staking
 
+And Harmony has Viperswap & DeFi Kingdoms with decent TVL & sustainable farming APRs
 
 <br><br>
 
@@ -140,8 +141,9 @@ ROWAN/USDC pool, it's one of the 6 pools that are also 1748% APY.
 
 staking ROWAN on keplr 120%
 
+stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex 
 
-<br><br><br>
+<br>
 AIOZ and ROWAN at 30% and 120% respectively.
 ##### Sifchain/ ROWAN
 Omni-Chain DEX. Rowan is both Sifchain’s decentralized governance token and settlement token. 
@@ -167,28 +169,4 @@ MMO single vault - 992% APY (239% APR, manually compounded daily)
 Viperswap)- ONEUSD-1USDC at 116% APR
 
 Oin Finance- minted nUSDO [NEAR-backed stablecoin] using stNEAR as collateral, staking in the stability pool for 40% APY
-
-
-<br><br><br>
-
-
-
-
-
-### just 3 ecosystems
-Cosmos, Near & Harmony
-
-On Cosmos; there's Sifchain & Osmosis- Good UX & very easy to use
-
-Near- Oin Finance, Ref Finance are good stablecoins minting platform & AMMs respectively
-
-And Harmony has Viperswap & DeFi Kingdoms with decent TVL & sustainable farming APRs
-
-
-<br><br><br>
-
-
-### ATOM/JUNO
- stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex 
-
 
