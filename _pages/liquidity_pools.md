@@ -3,7 +3,7 @@ title: "Liquidity Pools"
 layout: default
 toc: true
 resource: true
-categories: [Strategies]
+categories: [DeFi]
 order: 1
 ---
 
