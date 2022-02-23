@@ -3,7 +3,7 @@ title: "Recipies- DRAFT"
 layout: default
 toc: true
 resource: true 
-categories: [Recipies] 
+categories: [Recipes] 
 order: 5
 ---
 ## Bits and pieces
