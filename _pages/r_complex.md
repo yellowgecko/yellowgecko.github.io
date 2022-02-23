@@ -1,5 +1,5 @@
 ---
-title: "Hedging and other complex Strategies"
+title: "Complex Strategies"
 layout: default
 toc: false
 resource: true 
