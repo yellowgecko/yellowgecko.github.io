@@ -1,5 +1,5 @@
 ---
-title: "Recipies- DRAFT"
+title: "Bits and pieces"
 layout: default
 toc: true
 resource: true 
@@ -7,7 +7,7 @@ categories: [Recipes]
 order: 5
 ---
 ## Bits and pieces
-unsorted 'recipies' ... picked up on the way
+unsorted bits and pieces ... picked up on the way
 
 <br><br><br><br>
 
