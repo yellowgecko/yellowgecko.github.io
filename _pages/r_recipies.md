@@ -7,7 +7,8 @@ categories: [Recipes]
 order: 3
 ---
 
-<br>
+<br><br><br><br>
+
 ## Bridging - How to move stuff arounf
 See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap.
 
@@ -191,6 +192,9 @@ And REF won't diversify across the entire L1. The REF coin staking is a bet on t
 Make no mistake, you're not diversified. You're in two coins (NEAR and REF) staked in two pools that depend on transaction and trading volume on one chain.
 
 I am not sure I'd even invest in this strategy at all, let alone put my entire crypto bags in it. It's not an insane strategy as part of a diversified portfolio, but I don't like those REF tokenomics. And it IS an insane strategy if you're closing your savings account and putting it all in this.
+
+
+<br><br><br><br>
 
 
 ## Polygon MATIC
