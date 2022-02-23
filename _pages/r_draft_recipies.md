@@ -3,7 +3,7 @@ title: "Recipies- DRAFT"
 layout: default
 toc: true
 resource: true 
-categories: [Other] 
+categories: [Recipies] 
 order: 5
 ---
 ## Bits and pieces
@@ -30,8 +30,8 @@ Now if the price of LTC falls by 50%, I can buy back the same amount of LTC for 
 repay my loan, and pocket the other 250 USDC.
 
 <br><br><br><br>
-
-### Using Futures to hedge in bear market
+### Delta neutral strategies
+##### Using Futures to hedge in bear market
 Imagine we have 3 BTC and 30 Eth. If we pair them and get a good yield great. Even better when markets are bullish, because both BTC and ETH are going up in value.
 
 What about bad markets? This is when a hedge fund shines.
@@ -42,6 +42,23 @@ You still lose money, but you lose less. If the market is down %30 and you are d
 
 See [Short BNB Futures](https://coin.guru/pages/short-bnb-futures-selling-binance-coin-futures-to-short-bnb-with-leverage) and [Binance Coin Futures](https://coin.guru/pages/binance-coin-futures-explained-what-are-bnb-futures-and-how-they-work). A longer education on forward markets ans strategies at [Zerhoda - Forward Markets](https://zerodha.com/varsity/chapter/background-forwards-market/)
 
+##### Pseudo delta neutral yield farming
+[DN yield farming](https://www.youtube.com/watch?v=hxv55VOyjHc) on Francium/Solana but with a **good calculator**. See [Francium Hedging Docs](https://docs.francium.io/strategy-guide/strategies).
+
+
+##### How to do the Pseudo Delta Neutral Hedging Strategy
+1. Leverage yield farm XXX-USDC pair with 3x leverage (borrowing USDC and using 25% of your capital
+2. Leverage yield farm XXX-USDC pair with 3x leverage (borrowing XXX and using 75% of your capital)
+
+How to do the Borrow Farming Strategy
+- Leverage yield farm XXX-USDC pair with 2x leverage (borrowing XXX and using 100% of your capital
+
+Some things to consider. You can use this strategy on any coin that is on the lending tab, meaning you can potentially get some insane APYs. 
+
+You must be aware of the risks when doing this:
+- You can still get liquidated if the price of the farming asset goes up 60% or down 50% shortly after opening your farming position.
+- Its probably not a good idea to be using this strategy on new IDOs or meme tokens.
+- 
 <br><br><br><br>
 
 
