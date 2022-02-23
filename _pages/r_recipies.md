@@ -1,5 +1,5 @@
 ---
-title: "Chain recipies"
+title: "Chains to focus on"
 layout: default
 toc: true
 resource: true 
