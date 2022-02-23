@@ -1,5 +1,5 @@
 ---
-title: "Platforms & Recipies"
+title: "Chain recipies"
 layout: default
 toc: true
 resource: true 
@@ -9,12 +9,12 @@ order: 3
 
 <br><br><br><br>
 
-## Bridging - How to move stuff arounf
+### Bridging - How to move stuff arounf
 See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap.
 
 <br><br><br><br>
 
-## BSC - Binance Smart Chain (BNB)
+### BSC - Binance Smart Chain (BNB)
 [Defistation](https://www.defistation.io/) for BSC based DeFi platforms.
 : Use metamask set to BSC,  transfer BNB from Binance.
 : pancakeswap for cake and autocake.
@@ -31,7 +31,7 @@ See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridg
 
 <br><br><br><br>
 
-## Avalanche, AVAX
+### Avalanche, AVAX
 Avalanche is eth compatible. higher tx with lower fees. Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
 Avax uses KEPLR wallet or Metamask or Avalanche wallet. Avax can be staked.
 
@@ -58,7 +58,7 @@ Or BENQI
 <br><br><br><br>
 
 
-## Fantom (FTM)
+### Fantom (FTM)
 Fantom has beefy, yearn, curve, kyber
 go to curve via yearn.
 consider zapper.fi
@@ -70,7 +70,7 @@ stake … for credit (???)
 
 <br><br><br><br>
 
-## COSMOS chain
+### COSMOS chain
 ##### Stake ATOM
 Stake ATOM in KEPL wallet. use a validator between 100 and 145. Withdraw CRO, SCRT, LUNA, UST to kelpr and change on OSMOSIS. **Note: neeed some ATOM for transaction fees**. staking ATOM, receive OSMO and JUNO on Osmosis (Atom DEX)
 
@@ -129,7 +129,7 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 <br><br><br><br>
 
 
-## Terra
+### Terra
 Terra has Anchor, currently offering 20% APY for UST. See looping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
 LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
 
@@ -165,7 +165,7 @@ Try LUNA-bLUNA stake farming on Terraswap
 
 <br><br><br><br>
 
-## NEAR chain
+### NEAR chain
 This is a pretty small chain in terms of TVL.
 use NEAR wallet. can stake via wallet
 take liquidity to REF finance for single sided staking.
@@ -197,7 +197,7 @@ I am not sure I'd even invest in this strategy at all, let alone put my entire c
 <br><br><br><br>
 
 
-## Polygon MATIC
+### Polygon MATIC
 MATIC is native token of POLYGON net. Services on polygon are:
 
 * balancer
