@@ -36,6 +36,6 @@ non de-central platforms offering a return for depositing crypto including stabl
 <br><br><br>
 
 ## DEX lending
-prime examples are AAVE, Compund, Uniswap, Sushiswap, MakerDAO, Dharma and DyDx.
+prime examples are AAVE, Compound, Uniswap, Sushiswap, MakerDAO, Dharma and DyDx.
 
- see [DeFiPrime dex lending(https://defiprime.com/decentralized-lending) for a list of platforms.
+see [DeFiPrime dex lending](https://defiprime.com/decentralized-lending) for a list of platforms.
