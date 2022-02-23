@@ -8,6 +8,10 @@ order: 3
 ---
 
 <br>
+## Bridging - How to move stuff arounf
+See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap.
+
+<br><br><br><br>
 
 ## BSC - Binance Smart Chain (BNB)
 [Defistation](https://www.defistation.io/) for BSC based DeFi platforms.
