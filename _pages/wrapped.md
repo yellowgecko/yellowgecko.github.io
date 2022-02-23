@@ -3,7 +3,7 @@ title: "Wrapped Bitcoin"
 layout: default
 toc: false
 resource: true 
-categories: [Strategies] 
+categories: [DeFi] 
 order: 7
 ---
 ## What are wrapped Bitcoin?
