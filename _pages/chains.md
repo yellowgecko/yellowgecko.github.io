@@ -3,7 +3,7 @@ title: "Chains"
 layout: default
 toc: true
 resource: true 
-categories: [Strategies] 
+categories: [DeFi] 
 order: 10
 ---
 ### Ethereum - very high gas fees
