@@ -3,8 +3,8 @@ title: "DeFi tools link list"
 layout: default
 toc: false
 resource: true
-categories: [Other]
-order: 1
+categories: [DeFi]
+order: 11
 ---
 An unsorted list of links to tools, directories etc.
 
