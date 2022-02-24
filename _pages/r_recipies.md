@@ -135,6 +135,7 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 ### Terra
 Terra has Anchor, currently offering 20% APY for UST. See looping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
 LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
+Complete [ terra Doc](https://docs.terra.money/index.html). Terrastation is the wallet. App for Linux available.
 
 #### Loop UST on Terra with silver
 On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
