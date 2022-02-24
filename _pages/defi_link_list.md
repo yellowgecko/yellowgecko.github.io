@@ -1,10 +1,10 @@
 ---
-title"DeFi tools link list"
-layoutdefault
-tocfalse
-resourcetrue
-categories[DeFi]
-order1
+title: "DeFi tools link list"
+layout: default
+toc: false
+resource: true
+categories: [DeFi]
+order: 1
 ---
 An unsorted list of links to tools, directories etc.
 
