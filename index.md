@@ -1,5 +1,5 @@
 ---
-title: "To The Moon"
+title: "DeFi?"
 description: "A collection of links relating to DeFi"
 layout: default
 toc: false
@@ -7,7 +7,7 @@ resource: false
 categories: [Strategies]
 order: 0
 ---
-### DeFi?
+
 I have so many questions about DeFi I can't find straight answers to: [Reddit on DeFi for beginners](https://www.reddit.com/r/defi/comments/so1ns8/i_have_so_many_questions_about_defi_i_cant_find)
 
 > _The true power of defi comes from being early to a platform, luring suckers in, and dumping native tokens on them. Its all about getting high APY paid in 
