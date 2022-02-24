@@ -4,7 +4,7 @@ layout: default
 toc: false
 resource: true 
 categories: [DeFi]
-order: 2
+order: 3
 ---
 
 **[Reddit introduction on Lending & Borrowing](https://www.reddit.com/r/CryptoCurrency/comments/mnzv1c/defi_explained_lending_borrowing/)**
