@@ -44,90 +44,97 @@ An unsorted list of links to tools, directories etc.
 
 * [Chainlink](https://chainlist.org/) has a list of available chains (... and the corresponding metamask settings)
 
-💹 Price Trackers
-https://cryptowat.ch/
-https://coingecko.com/
-https://coinmarketcap.com/
-https://livecoinwatch.com/
-https://cryptorank.io/
-https://defillama.com/
-https://stakingrewards.com/
-🛠️ On-Chain Analytics and Data Aggregators 
-https://cryptoquant.com/
-https://messari.io/
-https://skew.com/
-https://glassnode.com/
-https://nansen.ai/
-https://lunarcrush.com/
-https://tokenterminal.com/
-https://nomics.com/
-https://noncedata.com/
-https://playtoearn.net/
-https://heimdall.land/
-https://pentacle.ai/
-https://defistation.io/
-https://mathdapp.store/
-https://coin.dance/
-https://explore.flashbots.net/
-https://lookintobitcoin.com/
-https://bitcoinera.app/arewedecentralizedyet
-📈 Crypto Trading and Charting Tools
-https://profitd.io/risk-calculator
-https://app.moontools.io/
-https://ftxpremiums.com/
-https://viewbase.com/
-https://goswappcharts.web.app/
-https://dex.guru/
-🤖 Smart Contract Programming
-https://eth.build/
-https://cryptozombies.io/
-https://cairo-lang.org/
+**💹 Price Trackers**
+
+: [https://cryptowat.ch/]https://cryptowat.ch/
+: [https://coingecko.com/]https://coingecko.com/
+: [https://coinmarketcap.com/]https://coinmarketcap.com/
+: [https://livecoinwatch.com/]https://livecoinwatch.com/
+: [https://cryptorank.io/]https://cryptorank.io/
+: [https://defillama.com/]https://defillama.com/
+: [https://stakingrewards.com/]https://stakingrewards.com/
+
+**🛠️ On-Chain Analytics and Data Aggregators** 
+
+: [https://cryptoquant.com/]https://cryptoquant.com/
+: [https://messari.io/]https://messari.io/
+: [https://skew.com/]https://skew.com/
+: [https://glassnode.com/]https://glassnode.com/
+: [https://nansen.ai/]https://nansen.ai/
+: [https://lunarcrush.com/]https://lunarcrush.com/
+: [https://tokenterminal.com/]https://tokenterminal.com/
+: [https://nomics.com/]https://nomics.com/
+: [https://noncedata.com/]https://noncedata.com/
+: [https://playtoearn.net/]https://playtoearn.net/
+: [https://heimdall.land/]https://heimdall.land/
+: [https://pentacle.ai/]https://pentacle.ai/
+: [https://defistation.io/]https://defistation.io/
+: [https://mathdapp.store/]https://mathdapp.store/
+: [https://coin.dance/]https://coin.dance/
+: [https://explore.flashbots.net/]https://explore.flashbots.net/
+: [https://lookintobitcoin.com/]https://lookintobitcoin.com/
+: [https://bitcoinera.app/arewedecentralizedyet]https://bitcoinera.app/arewedecentralizedyet
+
+**📈 Crypto Trading and Charting Tools**
+
+: [https://profitd.io/risk-calculator]https://profitd.io/risk-calculator
+: [https://app.moontools.io/]https://app.moontools.io/
+: [https://ftxpremiums.com/]https://ftxpremiums.com/
+: [https://viewbase.com/]https://viewbase.com/
+: [https://goswappcharts.web.app/]https://goswappcharts.web.app/
+: [https://dex.guru/]https://dex.guru/
+
+**🤖 Smart Contract Programming**
+
+: [https://eth.build/]https://eth.build/
+: [https://cryptozombies.io/]https://cryptozombies.io/
+: [https://cairo-lang.org/]https://cairo-lang.org/
  
-🏪 NFT's Marketplaces
-https://rarible.com/
-https://opensea.com/
-https://wax.io/
-💸 Incentivized Participation
-https://rabbithole.gg/
-🏛️ Governance Tools
-https://boardroom.info/
-https://snapshot.page/
-https://withtally.com/
-🎙️ Crypto Telegram
-https://t.me/BrieflyCrypto
-https://t.me/ico_analytic
-https://t.me/thedailyape
-https://t.me/lunarcrush
-https://t.me/cryptoquant_alert
-https://hotnewcrypto.com/
-📰 Crypto News and Blogs
-https://publish0x.com/
-https://cointelegraph.com/
-https://news.bitcoin.com/
-https://cryptopanic.com/
-https://thedefiant.io/
-https://decrypt.co/
-https://banklesshq.com/
-https://cryptoslate.com/
-📻 Podcasts
-Coin Bureau
-https://open.spotify.com/show/3YGWJM8cTo5LL203R0aN7
-🏦 CeFi Products
-https://nexo.io/
-https://celsius.network/
-https://blockfi.com/
-https://investvoyager.com/
-https://snowball.money/
-https://viamover.com/
-🛣️ Web3 Business and On-Ramps
-https://plasmapay.com/
-https://utrust.com/
-https://ramp.network/
-https://transak.com/
-NFT Rarity trackers
-https://rarity.tools/
-https://raritysniper.com/
-https://raritysniffer.com/
+**🏪 NFT's Marketplaces**
+
+: [https://rarible.com/]https://rarible.com/
+: [https://opensea.com/]https://opensea.com/
+: [https://looksrare.org/]https://looksrare.org/
+: [https://wax.io/]https://wax.io/
+
+**🏛️ Governance Tools**
+
+: [https://boardroom.info/]https://boardroom.info/
+: [https://snapshot.page/]https://snapshot.page/
+: [https://withtally.com/]https://withtally.com/
+
+**📰 Crypto News and Blogs**
+
+: [https://publish0x.com/]https://publish0x.com/
+: [https://cointelegraph.com/]https://cointelegraph.com/
+: [https://news.bitcoin.com/]https://news.bitcoin.com/
+: [https://cryptopanic.com/]https://cryptopanic.com/
+: [https://thedefiant.io/]https://thedefiant.io/
+: [https://decrypt.co/]https://decrypt.co/
+: [https://banklesshq.com/]https://banklesshq.com/
+: [https://cryptoslate.com/]https://cryptoslate.com/
+
+**🏦 CeFi Products**
+
+: [https://nexo.io/]https://nexo.io/
+: [https://celsius.network/]https://celsius.network/
+: [https://blockfi.com/]https://blockfi.com/
+: [https://investvoyager.com/]https://investvoyager.com/
+: [https://snowball.money/]https://snowball.money/
+: [https://viamover.com/]https://viamover.com/
+
+**🛣️ Web3 Business and On-Ramps**
+
+: [https://plasmapay.com/]https://plasmapay.com/
+: [https://utrust.com/]https://utrust.com/
+: [https://ramp.network/]https://ramp.network/
+: [https://transak.com/]https://transak.com/
+
+**🎙️ NFT Rarity trackers**
+
+: [https://rarity.tools/]https://rarity.tools/
+: [https://raritysniper.com/]https://raritysniper.com/
+: [https://raritysniffer.com/]https://raritysniffer.com/
 
 <br><br>
 
