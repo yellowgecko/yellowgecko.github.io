@@ -58,4 +58,17 @@ You must be aware of the risks when doing this:
 - You can still get liquidated if the price of the farming asset goes up 60% or down 50% shortly after opening your farming position.
 - Its probably not a good idea to be using this strategy on new IDOs or meme tokens.
 - 
-<br><br><br><br>
+<br><br>
+
+##### Leveraged Tokens
+
+[Compli.fi](https://app.compli.fi/) is a derivatives issuance protocol combined with an Automated Market Maker (AMM). [Compli Docs](https://docs.compli.fi/)
+
+[Tranchess](https://tranchess.com/) is a yield enhancing asset tracker protocol.
+
+
+
+
+
+
+<br><br>
