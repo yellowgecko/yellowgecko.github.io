@@ -36,7 +36,7 @@ See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridg
 
 ### Avalanche, AVAX
 Avalanche is eth compatible. higher tx with lower fees. Avax has Autofarm, Beefy, Curve, Defi Kingdom, Trader Joe, Curve, SushiSwap, Elk, Kyber, etc.
-Avax uses KEPLR wallet or Metamask or Avalanche wallet. 
+Avax uses KEPLR wallet or Metamask or[ Avalanche wallet](https://wallet.avax.network/access). 
 Avalanche wallet is required for staking and interacting with subnets. The Avalanche wallet allows interaction with 3 subnets: x, p and c.
 
 : x for funding, provides changing addresses
