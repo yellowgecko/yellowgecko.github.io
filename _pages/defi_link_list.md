@@ -8,6 +8,8 @@ order: 1
 ---
 An unsorted list of links to tools, directories etc.
 
+* [Faucets](https://stakely.io/faucet)
+
 * [RenBridge](https://bridge.renproject.io/mint) to wrap BTC to renBTC for Ethereum, BSC, Fantom, Polygon, Avalanche, Solana or Arbitrum. Alternativly use Coinlist wallet.
 
 * [DappRadar](https://dappradar.com/)per chain, covers Defi, NFTs, games, etc
