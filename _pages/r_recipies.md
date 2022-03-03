@@ -107,7 +107,10 @@ Here's the yields for pool #601 on osmosis for example:
 Look at the pools on Osmo. Do some research if you need to. Luna/Osmo APR at 92.99% currently, Luna/UST at 70.85%
 
 provide liquidity on NGM, STARS, CMDX, EEUR pools on Osmosis Dex.
+Staking NGM for 20% APY, OSMO for 88% APY and JUNO for 111 APY.
+Liquidity mining in EEUR/OSMO pool for 105% APR, STARS/OSMO for 108% APR and UST/OSMO for 126% APR.
 
+UST on Anchor for 19% APY.
 stake Atom and Juno, follow new projects and get drops. We provide liquidity on JunoSwapDex. The usual [dodgy YTuber beginner video](https://www.youtube.com/watch?v=Q26wLr145nE)
 
 <br><br>
