@@ -14,6 +14,11 @@ Bits and pieces collected about complex and hedging strategies
 The most common reasons usually center around depositing collateral in one coin, and borrowing in another coin. 
 The two most common ways this can be profitable are [Reddit source](https://www.reddit.com/r/defi/comments/sq9t8i/unless_apy_is_positive_what_is_the_point_of/):
 
+
+**borrow against wbtc on mai finance at 0% interest**
+
+<br><br>
+
 1. **Interest rate arbitrage.**\\
 Let's say I'm holding ETH and the highest single-staking APR I can find on ETH is 8%. 
 However, I might be able to find stable coin yields around 30%. So I can deposit $1000 worth of 
