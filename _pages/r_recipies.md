@@ -146,6 +146,12 @@ Terra has Anchor, currently offering 20% APY for UST. See looping example using 
 LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
 Complete [ terra Doc](https://docs.terra.money/index.html). Terrastation is the wallet. App for Linux available. Chromme extension as well.
 
+
+#### To borrow against  btc
+
+Unfortunately you can't lend BTC on Mirror. But you can lend your BTC as collateral on a lending market like Aave and borrow another stablecoin then swap it for UST and bridge the UST over. On the Polygon network the Aave borrow rate for USDC (for example) is not too bad, around 3~4% APY. Get the USDC over to BNB Chain (I use Crypto.com app for this, there are also a couple of DeFi bridges for USDC), swap USDC to UST on PancakeSwap then use the Portal Bridge to move it over to Terra. 
+
+
 #### Loop UST on Terra with silver
 On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
 1. Deposit $10K UST in Anchor (you get aUST)
