@@ -57,8 +57,8 @@ Some things to consider. You can use this strategy on any coin that is on the le
 You must be aware of the risks when doing this:
 - You can still get liquidated if the price of the farming asset goes up 60% or down 50% shortly after opening your farming position.
 - Its probably not a good idea to be using this strategy on new IDOs or meme tokens.
-- 
 <br><br>
+One recommendation is buy and borrow against sCOKE, other [delta neutral](https://www.reddit.com/r/Mirror_Protocol/comments/t8uxn2/mirror_delta_neutral_strategy_for_50_apy_on/) using short and long stocks.
 
 ##### Leveraged Tokens
 
