@@ -60,6 +60,11 @@ You must be aware of the risks when doing this:
 <br><br>
 One recommendation is buy and borrow against sCOKE, other [delta neutral](https://www.reddit.com/r/Mirror_Protocol/comments/t8uxn2/mirror_delta_neutral_strategy_for_50_apy_on/) using short and long stocks.
 
+
+#### More DN using short and long stocks
+[DN using synthetic stocks](https://www.reddit.com/r/defi/comments/t5xjfb/strategizing_defi_utilizing_defi_to_make_100k_of/)
+
+
 ##### Leveraged Tokens
 
 [Compli.fi](https://app.compli.fi/) is a derivatives issuance protocol combined with an Automated Market Maker (AMM). [Compli Docs](https://docs.compli.fi/)
