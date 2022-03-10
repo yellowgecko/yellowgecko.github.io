@@ -17,6 +17,8 @@ The two most common ways this can be profitable are [Reddit source](https://www.
 
 **borrow against wbtc on mai finance at 0% interest**
 
+**[Yield protocol borrow strategy](https://twitter.com/altafinprotocol/status/1500919291176173575) using ETH**
+
 <br><br>
 
 1. **Interest rate arbitrage.**\\
