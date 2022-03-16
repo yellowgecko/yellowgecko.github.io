@@ -10,7 +10,7 @@ order: 3
 <br><br><br><br>
 
 ### Bridging - How to move stuff around
-See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap.
+See [Multichain docs](https://docs.multichain.org/how-it-works/cross-chain-bridge) for an introduction to bridging assets across chains.  additionally see [this](https://medium.com/multichainorg/anyswap-fees-explained-bceddf535b83) article about Anyswap. But the one used for BTC is renBridge.io
 
 <br><br><br><br>
 
@@ -146,10 +146,13 @@ Terra has Anchor, currently offering 20% APY for UST. See looping example using 
 LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
 Complete [ terra Doc](https://docs.terra.money/index.html). Terrastation is the wallet. App for Linux available. Chromme extension as well.
 
+Another [Terra review](https://wantfi.com/terra-luna-anchor-protocol-savings-account.html) and [this Twitter thread](https://nitter.net/King0Crypto/status/1493944688109404169).
+
 
 #### To borrow against  btc
 
 Unfortunately you can't lend BTC on Mirror. But you can lend your BTC as collateral on a lending market like Aave and borrow another stablecoin then swap it for UST and bridge the UST over. On the Polygon network the Aave borrow rate for USDC (for example) is not too bad, around 3~4% APY. Get the USDC over to BNB Chain (I use Crypto.com app for this, there are also a couple of DeFi bridges for USDC), swap USDC to UST on PancakeSwap then use the Portal Bridge to move it over to Terra. 
+But check if borrow against ETH or BETH possible.
 
 
 #### Loop UST on Terra with silver
