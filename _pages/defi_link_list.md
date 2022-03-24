@@ -8,6 +8,10 @@ order: 1
 ---
 An unsorted list of links to tools, directories etc.
 
+* [Staking Rewards](https://www.stakingrewards.com/) index of staking options and rewards
+
+* [Dex Guru](https://www.stakingrewards.com/) A DEX analysis tool
+
 * [Faucets](https://stakely.io/faucet)
 
 * [RenBridge](https://bridge.renproject.io/mint) to wrap BTC to renBTC for Ethereum, BSC, Fantom, Polygon, Avalanche, Solana or Arbitrum. Alternativly use Coinlist wallet.
