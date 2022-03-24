@@ -12,6 +12,8 @@ An unsorted list of links to tools, directories etc.
 
 * [Dex Guru](https://www.stakingrewards.com/) A DEX analysis tool
 
+* [DEX Screener](https://dexscreener.com/)
+
 * [Faucets](https://stakely.io/faucet)
 
 * [RenBridge](https://bridge.renproject.io/mint) to wrap BTC to renBTC for Ethereum, BSC, Fantom, Polygon, Avalanche, Solana or Arbitrum. Alternativly use Coinlist wallet.
