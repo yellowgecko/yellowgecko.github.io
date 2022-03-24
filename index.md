@@ -15,7 +15,7 @@ I have so many questions about DeFi I can't find straight answers to: [Reddit on
 > People will try to sugercoat this mantra in various ways but just keep what I said in the back of your mind._
 
 <br><br>
-[Innovations to be cheerful](https://twitter.com/CroissantEth/status/1430293254684151808?s=20)
+[Innovations to be cheerful](https://twitter.com/CroissantEth/status/1430293254684151808?s=20) and [DeFi Risk guide](https://defiyield-app-guides.medium.com/how-to-avoid-getting-rekt-with-yield-farming-7e558ce08ea1).
 
 <br><br>
 
