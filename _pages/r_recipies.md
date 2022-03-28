@@ -141,52 +141,6 @@ Full video [How to stake CHUHUAHUA](https://www.youtube.com/watch?v=74gwbfx7ehI&
 <br><br><br><br>
 
 
-### Terra
-Terra has Anchor, currently offering 20% APY for UST. See looping example using Mirror protocol with mSLVR. Revisit **wormhole** issue/ story.
-LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
-Complete [ terra Doc](https://docs.terra.money/index.html). Terrastation is the wallet. App for Linux available. Chromme extension as well.
-
-Another [Terra review](https://wantfi.com/terra-luna-anchor-protocol-savings-account.html) and [this Twitter thread](https://nitter.net/King0Crypto/status/1493944688109404169). A [Guide to Terra](https://medium.com/everstake/yield-farming-in-the-terra-ecosystem-how-to-get-started-and-10-strategies-for-newbies-364882d24e8d).
-
-
-#### To borrow against  btc
-
-Unfortunately you can't lend BTC on Mirror. But you can lend your BTC as collateral on a lending market like Aave and borrow another stablecoin then swap it for UST and bridge the UST over. On the Polygon network the Aave borrow rate for USDC (for example) is not too bad, around 3~4% APY. Get the USDC over to BNB Chain (I use Crypto.com app for this, there are also a couple of DeFi bridges for USDC), swap USDC to UST on PancakeSwap then use the Portal Bridge to move it over to Terra. 
-But check if borrow against ETH or BETH possible.
-
-
-#### Loop UST on Terra with silver
-On Terra you can use your UST in Anchor Earn for 20% APY and then use that deposit as collateral to borrow stocks on Mirror Protocol. There are various strategies, one of them would be:
-1. Deposit $10K UST in Anchor (you get aUST)
-2. Borrow mSLV with your aUST
-3. Sell mSLV at Terraswap for UST
-4. Repeat 4x and deposit to Anchor
-5. You now have $20K UST earning 19,5% APY instead of $10K
-6. Buy mSLV on dips to hedge
-
-This strategy works when:
-*   The price of mSLV stays flat or goes down
-*   The price of mSLV doesn't increase more than the 19,5% you are earning extra per year   
-The breakeven point after 1 year is obviously if the price of mSLV is 19,5% higher...
-
-From Route2FI newsletter [Loop UST on Edge protocol](New stablecoin strategy for $UST - Edge Protocol)
-
-**comments on UST on Anchor:**
-
-> There are lots of reasons to pick one project over another. With regards to Anchor - firstly it's not that easy to get money on Terra. 
-> None of the major exchanges support it and you lose a lot of money in bridges. Secondly you may assess the risk of being 
-> hacked or rugged to be much higher on Anchor. Thirdly maybe you've never heard of Anchor Protocol since it's nowhere near 
-> as famous as AAVE. Fourthly maybe you're stuck on one chain or another for other reasons. A lot of other protocols put 
-> their funds on AAVE and they may not have the technical ability to flip their funds across different chains.
-
-[More LUNA stats](https://coinsutra.com/terra-network-luna-token-analysis/)
-
-Try LUNA-bLUNA stake farming on Terraswap
-<br><br><br><br>
-
-
-<br><br><br><br>
-
 ### NEAR chain
 This is a pretty small chain in terms of TVL.
 use NEAR wallet. can stake via wallet
