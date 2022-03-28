@@ -146,7 +146,7 @@ Terra has Anchor, currently offering 20% APY for UST. See looping example using 
 LUNA-bLUNA stake farming on Terraswap. Try AstroPort.
 Complete [ terra Doc](https://docs.terra.money/index.html). Terrastation is the wallet. App for Linux available. Chromme extension as well.
 
-Another [Terra review](https://wantfi.com/terra-luna-anchor-protocol-savings-account.html) and [this Twitter thread](https://nitter.net/King0Crypto/status/1493944688109404169).
+Another [Terra review](https://wantfi.com/terra-luna-anchor-protocol-savings-account.html) and [this Twitter thread](https://nitter.net/King0Crypto/status/1493944688109404169). A [Guide to Terra](https://medium.com/everstake/yield-farming-in-the-terra-ecosystem-how-to-get-started-and-10-strategies-for-newbies-364882d24e8d).
 
 
 #### To borrow against  btc
