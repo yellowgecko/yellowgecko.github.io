@@ -93,7 +93,7 @@ Stake ATOM in KEPL wallet. use a validator between 100 and 145. Withdraw CRO, SC
 1. _tbc_ maybe RenBridge again? [IBC InterBlockchain](https://blog.cosmos.network/bitcoin-is-coming-to-cosmos-with-interbtc-16b1fc854728)
 
 #### OSMOSIS
-is a cross chain AMM build on COSMOS/ATOM. Uses Keplr wallet. Osmosis has IBC (Inter - Blockchain Communication) built-in from the start, allowing it to connect to the entire Cosmos chain ecosystem
+is a cross chain AMM build on COSMOS/ATOM. Uses Keplr wallet. Osmosis has IBC (Inter - Blockchain Communication) built-in from the start, allowing it to connect to the entire Cosmos chain ecosystem. [Osmosis 101]](https://www.reddit.com/r/OsmosisLab/comments/ogjiqk/osmosis_lab_101/)
 
 ##### OSMOSIS.ZONE examples
 Here's the yields for pool #601 on osmosis for example:
