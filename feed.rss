@@ -1,27 +1,13 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<link rel="stylesheet" href="main.css" type="text/css" />
-<link rel="stylesheet" href="blog.css" type="text/css" />
-<link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="feed.rss" />
-<title>My fancy blog</title>
-</head><body>
-<div id="divbodyholder">
-<div class="headerholder"><div class="header">
-<div id="title">
-<h1 class="nomargin"><a class="ablack" href="http://example.com/blog/index.html">My fancy blog</a></h1>
-<div id="description">A blog about turtles and carrots</div>
-</div></div></div>
-<div id="divbody"><div class="content">
-<h3><a class="ablack" href="donkeys-and-llamas.html">
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
+<description>A blog about turtles and carrots</description><language>en</language>
+<lastBuildDate>Wed, 26 Feb 2025 22:21:18 +0800</lastBuildDate>
+<pubDate>Wed, 26 Feb 2025 22:21:18 +0800</pubDate>
+<atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
 Donkeys and Llamas
-</a></h3>
-<!-- bashblog_timestamp: #202502262201.04# -->
-<div class="subtitle">February 26, 2025 &mdash; 
-8bit Donkey
-</div>
-<!-- text begin -->
+</title><description><![CDATA[
 
 <p>
 Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. Et netus et
@@ -45,14 +31,13 @@ Enim nulla aliquet porttitor lacus luctus accumsan tortor.
 
 
 <!-- text end -->
-<h3><a class="ablack" href="this-is-a-story-in-8-bit.html">
+]]></description><link>http://example.com/blog/donkeys-and-llamas.html</link>
+<guid>http://example.com/blog/./donkeys-and-llamas.html</guid>
+<dc:creator>8bit Donkey</dc:creator>
+<pubDate>Wed, 26 Feb 2025 22:01:04 +0800</pubDate></item>
+<item><title>
 This is a story in 8 bit!
-</a></h3>
-<!-- bashblog_timestamp: #202502262150.37# -->
-<div class="subtitle">February 26, 2025 &mdash; 
-8bit Donkey
-</div>
-<!-- text begin -->
+</title><description><![CDATA[
 
 <p>
   Once upon a time there was a <b>Donkey</b> and a <b>Llama</b>. The process
@@ -75,9 +60,8 @@ This is a story in 8 bit!
 
 
 <!-- text end -->
-<div id="all_posts"><a href="all_posts.html">View more posts</a> &mdash; <a href="all_tags.html">All tags</a> &mdash; <a href="feed.rss">Subscribe</a></div>
-</div>
-<div id="footer">CC by-nc-nd <a href="http://twitter.com/example">8bit Donkey</a> &mdash; <a href="mailto:mtvlang&#64;protonmail&#46;com">mtvlang&#64;protonmail&#46;com</a><br/>
-Generated with <a href="https://github.com/cfenollosa/bashblog">bashblog</a>, a single bash script to easily create blogs like this one</div>
-</div></div>
-</body></html>
+]]></description><link>http://example.com/blog/this-is-a-story-in-8-bit.html</link>
+<guid>http://example.com/blog/./this-is-a-story-in-8-bit.html</guid>
+<dc:creator>8bit Donkey</dc:creator>
+<pubDate>Wed, 26 Feb 2025 21:50:37 +0800</pubDate></item>
+</channel></rss>
