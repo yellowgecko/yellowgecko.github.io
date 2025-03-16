@@ -2,9 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>My fancy blog</title><link>http://example.com/blog/index.html</link>
 <description>A blog about turtles and carrots</description><language>en</language>
-<lastBuildDate>Sun, 16 Mar 2025 16:19:06 +0800</lastBuildDate>
-<pubDate>Sun, 16 Mar 2025 16:19:06 +0800</pubDate>
+<lastBuildDate>Sun, 16 Mar 2025 16:29:32 +0800</lastBuildDate>
+<pubDate>Sun, 16 Mar 2025 16:29:32 +0800</pubDate>
 <atom:link href="http://example.com/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+Once upon a time at school.
+</title><description><![CDATA[
+
+<p>
+  The narrative gets switched back and forth between the past that takes place
+  in the Enchanted Forest and the present that takes place in Storybrooke, and
+  the truth is soon revealed: the Evil Queen won, and (most of) the citizens of
+  the Enchanted Forest now suffer Laser-Guided Amnesia in Storybrooke. Emma —
+  who is revealed to be the daughter of Snow White and Prince Charming — is the
+  only hope they have of restoring their happy endings and breaking the curse on
+  Storybrooke. Much of the first season focuses on Henry trying to convince Emma
+  that the curse is real, while Regina tries her best to prevent Emma from
+  finding the truth. At the same time, we learn more about the citizens of
+  Storybrooke and their Enchanted Forest counterparts.
+</p>
+
+<p>Tags: <a href='tag_AI.html'>AI</a></p>
+<!-- text end -->
+]]></description><link>http://example.com/blog/once-upon-a-time-at-school.html</link>
+<guid>http://example.com/blog/./once-upon-a-time-at-school.html</guid>
+<dc:creator>8bit Donkey</dc:creator>
+<pubDate>Sun, 16 Mar 2025 16:29:30 +0800</pubDate></item>
 <item><title>
 AI for all and forever!
 </title><description><![CDATA[
